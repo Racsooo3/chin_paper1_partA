@@ -308,34 +308,6 @@
     "difficulty": "hard"
   },
   {
-    "id": 12,
-    "question": "《逍遙遊》中「若夫乘天地之正，而御六氣之辯，以遊無窮者」所展現的境界是：",
-    "source": "《逍遙遊》",
-    "options": [
-      {
-        "text": "逍遙無待",
-        "isAnswer": true,
-        "explanation": "正確：莊子理想中的絕對自由，超越一切限制。"
-      },
-      {
-        "text": "中庸適度",
-        "isAnswer": false,
-        "explanation": "錯誤：中庸是孔子的思想，非莊子主張。"
-      },
-      {
-        "text": "隱退自保",
-        "isAnswer": false,
-        "explanation": "錯誤：此處強調主動遨遊而非退避。"
-      },
-      {
-        "text": "積極入世",
-        "isAnswer": false,
-        "explanation": "錯誤：莊子崇尚出世，不主張積極入世。"
-      }
-    ],
-    "difficulty": "hard"
-  },
-  {
     "id": 13,
     "question": "《論語．論仁》中「君子喻於義，小人喻於利」中「喻」的意思是：",
     "source": "《論語．論仁、論孝、論君子》",
@@ -446,34 +418,6 @@
       }
     ],
     "difficulty": "medium"
-  },
-  {
-    "id": 17,
-    "question": "《登樓》中「無邊落木蕭蕭下，不盡長江滾滾來」中的「不盡」表現了詩人什麼感慨？",
-    "source": "《登樓》",
-    "options": [
-      {
-        "text": "時光無窮",
-        "isAnswer": true,
-        "explanation": "正確：以無盡的江水感嘆歷史與人生無窮無盡之感。"
-      },
-      {
-        "text": "國勢強盛",
-        "isAnswer": false,
-        "explanation": "錯誤：詩中實則感慨衰敗，無國勢強盛意味。"
-      },
-      {
-        "text": "愉快自在",
-        "isAnswer": false,
-        "explanation": "錯誤：基調悲涼沉鬱，無快樂之意。"
-      },
-      {
-        "text": "故鄉繁榮",
-        "isAnswer": false,
-        "explanation": "錯誤：此句無涉及故鄉繁榮。"
-      }
-    ],
-    "difficulty": "hard"
   },
   {
     "id": 18,
@@ -784,34 +728,6 @@
     "difficulty": "medium"
   },
   {
-    "id": 29,
-    "question": "《逍遙遊》中「鷦鷯巢於深林，不過一枝」用以說明什麼道理？",
-    "source": "《逍遙遊》",
-    "options": [
-      {
-        "text": "小志局限",
-        "isAnswer": true,
-        "explanation": "正確：用小鳥滿足小處，暗示其志向狹小，對比大志。"
-      },
-      {
-        "text": "知足常樂",
-        "isAnswer": false,
-        "explanation": "錯誤：強調小志非美德，而非知足讚美。"
-      },
-      {
-        "text": "節儉生活",
-        "isAnswer": false,
-        "explanation": "錯誤：並非勸戒節省。"
-      },
-      {
-        "text": "退隱避世",
-        "isAnswer": false,
-        "explanation": "錯誤：並未提到退避之義。"
-      }
-    ],
-    "difficulty": "hard"
-  },
-  {
     "id": 30,
     "question": "《廉頗藺相如列傳》中「欲以觀其意也」中的「觀」應解作：",
     "source": "《廉頗藺相如列傳》",
@@ -980,31 +896,1151 @@
     "difficulty": "medium"
   },
   {
-    "id": 36,
-    "question": "《六國論》中「秦以攻取之外，小利不辭」中的「不辭」意思是：",
+    "id": 37,
+    "question": "《山居秋暝》中「明月松間照」呈現的畫面感是：",
+    "source": "《山居秋暝》",
+    "options": [
+      {
+        "text": "清幽寧靜",
+        "isAnswer": true,
+        "explanation": "正確：月光透過松林，營造幽靜安寧的氛圍。"
+      },
+      {
+        "text": "熱鬧喧騰",
+        "isAnswer": false,
+        "explanation": "錯誤：全詩基調幽靜恬淡，非熱鬧。"
+      },
+      {
+        "text": "蒼茫荒涼",
+        "isAnswer": false,
+        "explanation": "錯誤：無荒涼之感。"
+      },
+      {
+        "text": "雄偉壯麗",
+        "isAnswer": false,
+        "explanation": "錯誤：並未強調壯觀氣勢。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 38,
+    "question": "《念奴嬌．赤壁懷古》中「大江東去，浪淘盡，千古風流人物」主要表現了詞人的什麼情感？",
+    "source": "《念奴嬌．赤壁懷古》",
+    "options": [
+      {
+        "text": "歷史滄桑之感",
+        "isAnswer": true,
+        "explanation": "正確：感慨歷史無情，英雄消逝，滄桑之感。"
+      },
+      {
+        "text": "孤獨寂寞",
+        "isAnswer": false,
+        "explanation": "錯誤：並非表現孤獨心境。"
+      },
+      {
+        "text": "喜悅輕快",
+        "isAnswer": false,
+        "explanation": "錯誤：語氣雄渾悲壯，非喜悅。"
+      },
+      {
+        "text": "思鄉之情",
+        "isAnswer": false,
+        "explanation": "錯誤：與懷古情感不同。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 39,
+    "question": "《青玉案．元夕》中「眾裡尋他千百度」中的「百度」是形容：",
+    "source": "《青玉案．元夕》",
+    "options": [
+      {
+        "text": "多次",
+        "isAnswer": true,
+        "explanation": "正確：「百度」泛指無數次，並非確指一百次。"
+      },
+      {
+        "text": "一次",
+        "isAnswer": false,
+        "explanation": "錯誤：強調反覆多次尋找，非一次。"
+      },
+      {
+        "text": "十分之一",
+        "isAnswer": false,
+        "explanation": "錯誤：無數學比例之義。"
+      },
+      {
+        "text": "很快",
+        "isAnswer": false,
+        "explanation": "錯誤：未強調速度。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 40,
+    "question": "《聲聲慢．秋情》中「尋尋覓覓」描寫的情感是：",
+    "source": "《聲聲慢．秋情》",
+    "options": [
+      {
+        "text": "徬徨苦悶",
+        "isAnswer": true,
+        "explanation": "正確：反覆尋找，內心徬徨不安，苦悶哀怨。"
+      },
+      {
+        "text": "滿懷希望",
+        "isAnswer": false,
+        "explanation": "錯誤：全詞情感低沉，非樂觀。"
+      },
+      {
+        "text": "自在悠然",
+        "isAnswer": false,
+        "explanation": "錯誤：無悠閒自在感。"
+      },
+      {
+        "text": "激昂興奮",
+        "isAnswer": false,
+        "explanation": "錯誤：非激昂情感。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 42,
+    "question": "《山居秋暝》中「竹喧歸浣女，蓮動下漁舟」所寫場景的特點是：",
+    "source": "《山居秋暝》",
+    "options": [
+      {
+        "text": "動靜相生",
+        "isAnswer": true,
+        "explanation": "正確：以聲音與景物互動，展現動靜結合的美感。"
+      },
+      {
+        "text": "純靜無聲",
+        "isAnswer": false,
+        "explanation": "錯誤：明顯有聲音、動態。"
+      },
+      {
+        "text": "孤寂荒蕪",
+        "isAnswer": false,
+        "explanation": "錯誤：並未流露孤寂感。"
+      },
+      {
+        "text": "奇險詭譎",
+        "isAnswer": false,
+        "explanation": "錯誤：全詩平和優美，無驚險感。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 43,
+    "question": "《青玉案．元夕》中「燈火闌珊處」的「闌珊」意思是：",
+    "source": "《青玉案．元夕》",
+    "options": [
+      {
+        "text": "稀疏、將盡",
+        "isAnswer": true,
+        "explanation": "正確：「闌珊」即稀疏、漸少之意，形容燈火漸散。"
+      },
+      {
+        "text": "明亮燦爛",
+        "isAnswer": false,
+        "explanation": "錯誤：與「盛」相反。"
+      },
+      {
+        "text": "高大盛放",
+        "isAnswer": false,
+        "explanation": "錯誤：與花木無關。"
+      },
+      {
+        "text": "對稱整齊",
+        "isAnswer": false,
+        "explanation": "錯誤：無對稱含義。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 44,
+    "question": "《月下獨酌》中「花間一壺酒，獨酌無相親」體現的情感是：",
+    "source": "《月下獨酌》",
+    "options": [
+      {
+        "text": "孤獨寂寞",
+        "isAnswer": true,
+        "explanation": "正確：獨自飲酒，無人作陪，反映孤寂情感。"
+      },
+      {
+        "text": "熱情奔放",
+        "isAnswer": false,
+        "explanation": "錯誤：語境並非歡快。"
+      },
+      {
+        "text": "憤怒不滿",
+        "isAnswer": false,
+        "explanation": "錯誤：無憤懣情緒。"
+      },
+      {
+        "text": "熱愛自然",
+        "isAnswer": false,
+        "explanation": "錯誤：主情感為孤寂，不是對自然的欣賞。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 45,
+    "question": "《念奴嬌．赤壁懷古》中「故國神遊，多情應笑我」表達的態度是：",
+    "source": "《念奴嬌．赤壁懷古》",
+    "options": [
+      {
+        "text": "自我感慨",
+        "isAnswer": true,
+        "explanation": "正確：遊覽古地，憶古人事，自我感慨而自嘲。"
+      },
+      {
+        "text": "對敵羞辱",
+        "isAnswer": false,
+        "explanation": "錯誤：無攻擊他人之意。"
+      },
+      {
+        "text": "得意揚揚",
+        "isAnswer": false,
+        "explanation": "錯誤：語氣非得意，而是自省。"
+      },
+      {
+        "text": "憂國憂民",
+        "isAnswer": false,
+        "explanation": "錯誤：此處未直接關心國事民生。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 46,
+    "question": "《聲聲慢．秋情》中「怎敵他，晚來風急」中「敵」的意思是：",
+    "source": "《聲聲慢．秋情》",
+    "options": [
+      {
+        "text": "抵擋",
+        "isAnswer": true,
+        "explanation": "正確：「敵」此處作「抵抗、承受」解釋。"
+      },
+      {
+        "text": "敵人",
+        "isAnswer": false,
+        "explanation": "錯誤：此處非指對手或敵人。"
+      },
+      {
+        "text": "相等",
+        "isAnswer": false,
+        "explanation": "錯誤：無對等之義。"
+      },
+      {
+        "text": "比較",
+        "isAnswer": false,
+        "explanation": "錯誤：不表比較之意。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 47,
+    "question": "《六國論》中「不賂者以賂者喪」中「賂」的意思是：",
     "source": "《六國論》",
     "options": [
       {
-        "text": "不推辭",
+        "text": "賄賂",
         "isAnswer": true,
-        "explanation": "正確：「不辭」解作不推辭，即無所不取，貪婪無厭。"
+        "explanation": "正確：此處「賂」即賄賂、割地討好之意。"
       },
       {
-        "text": "不言語",
+        "text": "聘禮",
         "isAnswer": false,
-        "explanation": "錯誤：並非沉默無言之意。"
+        "explanation": "錯誤：與婚嫁聘禮無關。"
       },
       {
-        "text": "不離開",
+        "text": "財富",
         "isAnswer": false,
-        "explanation": "錯誤：無離去含義。"
+        "explanation": "錯誤：非單指財物或財富。"
       },
       {
-        "text": "不解釋",
+        "text": "告訴",
         "isAnswer": false,
-        "explanation": "錯誤：無表達解釋之意。"
+        "explanation": "錯誤：與「訴說」之義無關。"
       }
     ],
     "difficulty": "hard"
+  },
+  {
+    "id": 48,
+    "question": "《六國論》中「弊在賂秦」這句話反映蘇洵的什麼觀點？",
+    "source": "《六國論》",
+    "options": [
+      {
+        "text": "指責六國對秦委曲求全",
+        "isAnswer": true,
+        "explanation": "正確：批評六國用割地賄賂方式求和，導致滅亡。"
+      },
+      {
+        "text": "讚賞秦國用兵謀略",
+        "isAnswer": false,
+        "explanation": "錯誤：主旨在譴責非讚美。"
+      },
+      {
+        "text": "主張聯合抗秦",
+        "isAnswer": false,
+        "explanation": "錯誤：未明確提出聯合策略。"
+      },
+      {
+        "text": "肯定外交靈活",
+        "isAnswer": false,
+        "explanation": "錯誤：並未肯定外交。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 50,
+    "question": "《六國論》中「思厥先祖父，暴霜露，斬荊棘」中的「暴」應解作：",
+    "source": "《六國論》",
+    "options": [
+      {
+        "text": "遭受",
+        "isAnswer": true,
+        "explanation": "正確：「暴」此處作「曝露、遭受」解釋。"
+      },
+      {
+        "text": "凶暴",
+        "isAnswer": false,
+        "explanation": "錯誤：非性格凶暴之義。"
+      },
+      {
+        "text": "浮現",
+        "isAnswer": false,
+        "explanation": "錯誤：無顯現義。"
+      },
+      {
+        "text": "顯示",
+        "isAnswer": false,
+        "explanation": "錯誤：非展示義。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 51,
+    "question": "《六國論》中「而卒莫之能止也」的「卒」是什麼意思？",
+    "source": "《六國論》",
+    "options": [
+      {
+        "text": "終究",
+        "isAnswer": true,
+        "explanation": "正確：「卒」此處指最終、終究之意。"
+      },
+      {
+        "text": "軍隊",
+        "isAnswer": false,
+        "explanation": "錯誤：非指士兵或軍隊。"
+      },
+      {
+        "text": "突然",
+        "isAnswer": false,
+        "explanation": "錯誤：並非突然而來。"
+      },
+      {
+        "text": "死亡",
+        "isAnswer": false,
+        "explanation": "錯誤：非去世之意。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 52,
+    "question": "《六國論》中「以地事秦，猶抱薪救火」的比喻意義是：",
+    "source": "《六國論》",
+    "options": [
+      {
+        "text": "方法錯誤，適得其反",
+        "isAnswer": true,
+        "explanation": "正確：比喻用錯誤方法解決問題，只會加劇災難。"
+      },
+      {
+        "text": "效果顯著",
+        "isAnswer": false,
+        "explanation": "錯誤：強調失敗而非成功。"
+      },
+      {
+        "text": "忍辱求全",
+        "isAnswer": false,
+        "explanation": "錯誤：此處批評而非讚揚。"
+      },
+      {
+        "text": "剛柔並濟",
+        "isAnswer": false,
+        "explanation": "錯誤：無此調和之義。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 53,
+    "question": "《六國論》中「或曰：六國互喪，率賂秦耶？」「耶」的作用是：",
+    "source": "《六國論》",
+    "options": [
+      {
+        "text": "表疑問",
+        "isAnswer": true,
+        "explanation": "正確：「耶」作疑問語氣助詞，表示提問。"
+      },
+      {
+        "text": "表感嘆",
+        "isAnswer": false,
+        "explanation": "錯誤：並非感嘆語氣。"
+      },
+      {
+        "text": "表肯定",
+        "isAnswer": false,
+        "explanation": "錯誤：未表示肯定語氣。"
+      },
+      {
+        "text": "表轉折",
+        "isAnswer": false,
+        "explanation": "錯誤：未有轉折作用。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 54,
+    "question": "《出師表》中「計日而待」的意思是：",
+    "source": "《出師表》",
+    "options": [
+      {
+        "text": "指日可待",
+        "isAnswer": true,
+        "explanation": "正確：指不久即可期待。"
+      },
+      {
+        "text": "細細盤算日期",
+        "isAnswer": false,
+        "explanation": "錯誤：無細算日期義。"
+      },
+      {
+        "text": "每日盼望",
+        "isAnswer": false,
+        "explanation": "錯誤：並非天天期盼之意。"
+      },
+      {
+        "text": "日益延誤",
+        "isAnswer": false,
+        "explanation": "錯誤：無拖延含義。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 55,
+    "question": "《出師表》中「聽賢臣之諫，則政通人和」中「政通人和」的意思是：",
+    "source": "《出師表》",
+    "options": [
+      {
+        "text": "政治順利，百姓和樂",
+        "isAnswer": true,
+        "explanation": "正確：形容政事通達，百姓安居。"
+      },
+      {
+        "text": "政治腐敗，民怨四起",
+        "isAnswer": false,
+        "explanation": "錯誤：語境中為正面描述。"
+      },
+      {
+        "text": "政權混亂，無法治理",
+        "isAnswer": false,
+        "explanation": "錯誤：與文意相反。"
+      },
+      {
+        "text": "政治專制，百姓畏懼",
+        "isAnswer": false,
+        "explanation": "錯誤：完全錯誤解讀。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 56,
+    "question": "《出師表》中「不宜妄自菲薄，引喻失義」中「妄自菲薄」的含義是：",
+    "source": "《出師表》",
+    "options": [
+      {
+        "text": "過分自卑",
+        "isAnswer": true,
+        "explanation": "正確：指過度自我看輕。"
+      },
+      {
+        "text": "誇耀自大",
+        "isAnswer": false,
+        "explanation": "錯誤：與文意相反。"
+      },
+      {
+        "text": "故意謙虛",
+        "isAnswer": false,
+        "explanation": "錯誤：非刻意示弱之意。"
+      },
+      {
+        "text": "中傷他人",
+        "isAnswer": false,
+        "explanation": "錯誤：無詆毀他人義。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 57,
+    "question": "《出師表》中「志慮忠純」中「慮」的意思是：",
+    "source": "《出師表》",
+    "options": [
+      {
+        "text": "思慮",
+        "isAnswer": true,
+        "explanation": "正確：「慮」在此作思想、考慮解。"
+      },
+      {
+        "text": "憂慮",
+        "isAnswer": false,
+        "explanation": "錯誤：非單指憂愁擔心。"
+      },
+      {
+        "text": "計謀",
+        "isAnswer": false,
+        "explanation": "錯誤：無陰謀義。"
+      },
+      {
+        "text": "疑慮",
+        "isAnswer": false,
+        "explanation": "錯誤：並非懷疑之意。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 58,
+    "question": "《出師表》中「親賢臣，遠小人，此先漢所以興隆也」中「遠」的意思是：",
+    "source": "《出師表》",
+    "options": [
+      {
+        "text": "疏遠",
+        "isAnswer": true,
+        "explanation": "正確：「遠」此處作疏遠、排除解釋。"
+      },
+      {
+        "text": "遙遠",
+        "isAnswer": false,
+        "explanation": "錯誤：非距離之意。"
+      },
+      {
+        "text": "深遠",
+        "isAnswer": false,
+        "explanation": "錯誤：無深厚意涵。"
+      },
+      {
+        "text": "永遠",
+        "isAnswer": false,
+        "explanation": "錯誤：無時間含義。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 59,
+    "question": "《出師表》中「此誠危急存亡之秋也」中「秋」的意思是：",
+    "source": "《出師表》",
+    "options": [
+      {
+        "text": "時機",
+        "isAnswer": true,
+        "explanation": "正確：比喻關鍵時期。"
+      },
+      {
+        "text": "秋季",
+        "isAnswer": false,
+        "explanation": "錯誤：非四季秋天之意。"
+      },
+      {
+        "text": "收成",
+        "isAnswer": false,
+        "explanation": "錯誤：與農作物收穫無關。"
+      },
+      {
+        "text": "老年",
+        "isAnswer": false,
+        "explanation": "錯誤：非人生命階段。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 60,
+    "question": "《出師表》中「性行淑均」中「淑均」所形容的是：",
+    "source": "《出師表》",
+    "options": [
+      {
+        "text": "品德善良，性情平和",
+        "isAnswer": true,
+        "explanation": "正確：讚美個人品行，淑善、均平。"
+      },
+      {
+        "text": "學識淵博",
+        "isAnswer": false,
+        "explanation": "錯誤：與學識無關。"
+      },
+      {
+        "text": "武藝高強",
+        "isAnswer": false,
+        "explanation": "錯誤：非指戰技。"
+      },
+      {
+        "text": "謀略縝密",
+        "isAnswer": false,
+        "explanation": "錯誤：未涉及謀略。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 61,
+    "question": "《出師表》中「若有作姦犯科及為忠善者，皆為陛下所察察」中「察察」的意思是：",
+    "source": "《出師表》",
+    "options": [
+      {
+        "text": "明察",
+        "isAnswer": true,
+        "explanation": "正確：指清楚明察、辨別是非。"
+      },
+      {
+        "text": "觀察",
+        "isAnswer": false,
+        "explanation": "錯誤：不單指外表觀看。"
+      },
+      {
+        "text": "思考",
+        "isAnswer": false,
+        "explanation": "錯誤：非指思索。"
+      },
+      {
+        "text": "評論",
+        "isAnswer": false,
+        "explanation": "錯誤：無評斷意。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 62,
+    "question": "《六國論》中「而秦師不閑於敝」中的「敝」是什麼意思？",
+    "source": "《六國論》",
+    "options": [
+      {
+        "text": "疲憊",
+        "isAnswer": true,
+        "explanation": "正確：此處「敝」作「疲敝、疲乏」解。"
+      },
+      {
+        "text": "破舊",
+        "isAnswer": false,
+        "explanation": "錯誤：非破舊、破爛之意。"
+      },
+      {
+        "text": "損害",
+        "isAnswer": false,
+        "explanation": "錯誤：非損壞意。"
+      },
+      {
+        "text": "自謙",
+        "isAnswer": false,
+        "explanation": "錯誤：無謙稱含義。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 63,
+    "question": "《魚我所欲也》中「舍魚而取熊掌者也」的「舍」意思是：",
+    "source": "《魚我所欲也》",
+    "options": [
+      {
+        "text": "放棄",
+        "isAnswer": true,
+        "explanation": "正確：「舍」指捨棄、放棄之意，取捨之辯證核心。"
+      },
+      {
+        "text": "住處",
+        "isAnswer": false,
+        "explanation": "錯誤：非指居所。"
+      },
+      {
+        "text": "停留",
+        "isAnswer": false,
+        "explanation": "錯誤：並非停頓、停住義。"
+      },
+      {
+        "text": "收藏",
+        "isAnswer": false,
+        "explanation": "錯誤：沒有收存之意。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 64,
+    "question": "《魚我所欲也》中「生亦我所欲，義亦我所欲」此處「義」最能表現的思想是：",
+    "source": "《魚我所欲也》",
+    "options": [
+      {
+        "text": "重義輕生",
+        "isAnswer": true,
+        "explanation": "正確：孟子主張為義可以犧牲生命，體現「重義輕生」。"
+      },
+      {
+        "text": "知足常樂",
+        "isAnswer": false,
+        "explanation": "錯誤：並非表達知足情懷。"
+      },
+      {
+        "text": "忠君愛國",
+        "isAnswer": false,
+        "explanation": "錯誤：此篇更重倫理自律非忠君。"
+      },
+      {
+        "text": "順其自然",
+        "isAnswer": false,
+        "explanation": "錯誤：非道家思想的自然無為。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 65,
+    "question": "《魚我所欲也》中「由是則生而有不用也」中的「是」意思是：",
+    "source": "《魚我所欲也》",
+    "options": [
+      {
+        "text": "這樣",
+        "isAnswer": true,
+        "explanation": "正確：「是」此處指這樣、這種方法或方式。"
+      },
+      {
+        "text": "正確",
+        "isAnswer": false,
+        "explanation": "錯誤：並非判斷對錯義。"
+      },
+      {
+        "text": "此人",
+        "isAnswer": false,
+        "explanation": "錯誤：未指代人。"
+      },
+      {
+        "text": "事情",
+        "isAnswer": false,
+        "explanation": "錯誤：無泛指事情含義。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 66,
+    "question": "《魚我所欲也》中「不辟於義而死者，得之也」中「辟」的意思是：",
+    "source": "《魚我所欲也》",
+    "options": [
+      {
+        "text": "避開",
+        "isAnswer": true,
+        "explanation": "正確：「辟」作「逃避、躲避」解。"
+      },
+      {
+        "text": "開辟",
+        "isAnswer": false,
+        "explanation": "錯誤：並非開創、開拓義。"
+      },
+      {
+        "text": "偏僻",
+        "isAnswer": false,
+        "explanation": "錯誤：非偏遠之意。"
+      },
+      {
+        "text": "隱藏",
+        "isAnswer": false,
+        "explanation": "錯誤：無藏匿含義。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 67,
+    "question": "《魚我所欲也》中「所惡有甚於死者」的「惡」意思是：",
+    "source": "《魚我所欲也》",
+    "options": [
+      {
+        "text": "厭惡",
+        "isAnswer": true,
+        "explanation": "正確：「惡」指厭惡、憎惡之意。"
+      },
+      {
+        "text": "邪惡",
+        "isAnswer": false,
+        "explanation": "錯誤：並非作邪惡解釋。"
+      },
+      {
+        "text": "惡毒",
+        "isAnswer": false,
+        "explanation": "錯誤：與狠毒無關。"
+      },
+      {
+        "text": "罪惡",
+        "isAnswer": false,
+        "explanation": "錯誤：並非犯罪或罪過之義。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 68,
+    "question": "《魚我所欲也》中「一簞食，一豆羹」主要用來說明：",
+    "source": "《魚我所欲也》",
+    "options": [
+      {
+        "text": "貧賤不移",
+        "isAnswer": true,
+        "explanation": "正確：用少量食物比喻微薄供養，仍不失節操。"
+      },
+      {
+        "text": "節儉生活",
+        "isAnswer": false,
+        "explanation": "錯誤：非單純表現節儉。"
+      },
+      {
+        "text": "飲食豐盛",
+        "isAnswer": false,
+        "explanation": "錯誤：與內容相反。"
+      },
+      {
+        "text": "生活奢華",
+        "isAnswer": false,
+        "explanation": "錯誤：與奢華無關。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 69,
+    "question": "《魚我所欲也》中「萬鍾則不辨禮義而受之」的「辨」意思是：",
+    "source": "《魚我所欲也》",
+    "options": [
+      {
+        "text": "分辨",
+        "isAnswer": true,
+        "explanation": "正確：「辨」作分辨、分別之意。"
+      },
+      {
+        "text": "辦理",
+        "isAnswer": false,
+        "explanation": "錯誤：非處理事情義。"
+      },
+      {
+        "text": "雄辯",
+        "isAnswer": false,
+        "explanation": "錯誤：無口才之義。"
+      },
+      {
+        "text": "裝飾",
+        "isAnswer": false,
+        "explanation": "錯誤：與裝扮無關。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 70,
+    "question": "《魚我所欲也》中「呼爾而與之，行道之人弗受」所表達的品格是：",
+    "source": "《魚我所欲也》",
+    "options": [
+      {
+        "text": "不受不義之財",
+        "isAnswer": true,
+        "explanation": "正確：強調不受不合道義的施予，守正不苟。"
+      },
+      {
+        "text": "驕傲自滿",
+        "isAnswer": false,
+        "explanation": "錯誤：無傲慢之意。"
+      },
+      {
+        "text": "貪圖利益",
+        "isAnswer": false,
+        "explanation": "錯誤：完全相反。"
+      },
+      {
+        "text": "報恩圖報",
+        "isAnswer": false,
+        "explanation": "錯誤：不涉及報恩情節。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 71,
+    "question": "《始得西山宴遊記》中「自余為僇人」中「僇人」意思是：",
+    "source": "《始得西山宴遊記》",
+    "options": [
+      {
+        "text": "受過刑罰之人",
+        "isAnswer": true,
+        "explanation": "正確：「僇人」即被處罰或受刑人，自謙說法。"
+      },
+      {
+        "text": "農夫",
+        "isAnswer": false,
+        "explanation": "錯誤：並非農耕者。"
+      },
+      {
+        "text": "文士",
+        "isAnswer": false,
+        "explanation": "錯誤：無文人雅士義。"
+      },
+      {
+        "text": "遊客",
+        "isAnswer": false,
+        "explanation": "錯誤：並非遊覽之人。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 72,
+    "question": "《始得西山宴遊記》中「與萬化冥合」的「冥」意思是：",
+    "source": "《始得西山宴遊記》",
+    "options": [
+      {
+        "text": "默然",
+        "isAnswer": true,
+        "explanation": "正確：此處指默然、暗合、自然契合之意。"
+      },
+      {
+        "text": "幽暗",
+        "isAnswer": false,
+        "explanation": "錯誤：並非陰暗之意。"
+      },
+      {
+        "text": "消失",
+        "isAnswer": false,
+        "explanation": "錯誤：無消逝義。"
+      },
+      {
+        "text": "死亡",
+        "isAnswer": false,
+        "explanation": "錯誤：不指死亡。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 73,
+    "question": "《始得西山宴遊記》中「心凝形釋」所表現的境界是：",
+    "source": "《始得西山宴遊記》",
+    "options": [
+      {
+        "text": "超脫塵世",
+        "isAnswer": true,
+        "explanation": "正確：意指心神專一，脫離肉體拘束，達超脫境界。"
+      },
+      {
+        "text": "悲傷淒涼",
+        "isAnswer": false,
+        "explanation": "錯誤：無悲苦之意。"
+      },
+      {
+        "text": "追悔過往",
+        "isAnswer": false,
+        "explanation": "錯誤：無悔恨之義。"
+      },
+      {
+        "text": "留戀俗事",
+        "isAnswer": false,
+        "explanation": "錯誤：與遠離塵俗相反。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 74,
+    "question": "《始得西山宴遊記》中「其高下之勢，岈然窪然」句運用了什麼修辭？",
+    "source": "《始得西山宴遊記》",
+    "options": [
+      {
+        "text": "疊字",
+        "isAnswer": true,
+        "explanation": "正確：使用疊字「岈然」「窪然」，加強高低起伏之感。"
+      },
+      {
+        "text": "借代",
+        "isAnswer": false,
+        "explanation": "錯誤：未以事物代他物。"
+      },
+      {
+        "text": "設問",
+        "isAnswer": false,
+        "explanation": "錯誤：無疑問語氣。"
+      },
+      {
+        "text": "排比",
+        "isAnswer": false,
+        "explanation": "錯誤：未並列三句或以上。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 75,
+    "question": "《始得西山宴遊記》中「洋洋乎與造物者遊」中「造物者」指的是：",
+    "source": "《始得西山宴遊記》",
+    "options": [
+      {
+        "text": "大自然",
+        "isAnswer": true,
+        "explanation": "正確：「造物者」泛指天地萬物的創造者，即大自然。"
+      },
+      {
+        "text": "帝王",
+        "isAnswer": false,
+        "explanation": "錯誤：無指人間君主。"
+      },
+      {
+        "text": "父母",
+        "isAnswer": false,
+        "explanation": "錯誤：並非父母長輩。"
+      },
+      {
+        "text": "宗教神靈",
+        "isAnswer": false,
+        "explanation": "錯誤：此處無宗教神性。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 76,
+    "question": "《始得西山宴遊記》中「縈青繚白，外與天際，四望如一」中的「縈」意思是：",
+    "source": "《始得西山宴遊記》",
+    "options": [
+      {
+        "text": "纏繞",
+        "isAnswer": true,
+        "explanation": "正確：「縈」作纏繞、環繞之意。"
+      },
+      {
+        "text": "遮蔽",
+        "isAnswer": false,
+        "explanation": "錯誤：未有阻隔義。"
+      },
+      {
+        "text": "搖晃",
+        "isAnswer": false,
+        "explanation": "錯誤：並非搖動含義。"
+      },
+      {
+        "text": "增添",
+        "isAnswer": false,
+        "explanation": "錯誤：非增加之意。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 77,
+    "question": "《始得西山宴遊記》中「意有所極，夢亦同趣」所表現的思想是：",
+    "source": "《始得西山宴遊記》",
+    "options": [
+      {
+        "text": "物我合一",
+        "isAnswer": true,
+        "explanation": "正確：表達與自然相合，精神與夢境相通，達「物我合一」境界。"
+      },
+      {
+        "text": "隨遇而安",
+        "isAnswer": false,
+        "explanation": "錯誤：非單純安於環境。"
+      },
+      {
+        "text": "貪圖功利",
+        "isAnswer": false,
+        "explanation": "錯誤：完全相反。"
+      },
+      {
+        "text": "悲觀厭世",
+        "isAnswer": false,
+        "explanation": "錯誤：無消極情緒。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 78,
+    "question": "《始得西山宴遊記》中「縈青繚白」句的意境主要表現什麼特色？",
+    "source": "《始得西山宴遊記》",
+    "options": [
+      {
+        "text": "空靈秀麗",
+        "isAnswer": true,
+        "explanation": "正確：描寫青白雲氣，展現高遠秀麗、空靈之美。"
+      },
+      {
+        "text": "幽暗深沉",
+        "isAnswer": false,
+        "explanation": "錯誤：無陰鬱暗沉感。"
+      },
+      {
+        "text": "荒涼淒冷",
+        "isAnswer": false,
+        "explanation": "錯誤：景色優美並非荒涼。"
+      },
+      {
+        "text": "宏偉壯觀",
+        "isAnswer": false,
+        "explanation": "錯誤：雖有高遠，但重點在空靈婉約。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 79,
+    "question": "《始得西山宴遊記》中「引觴滿酌，頹然就醉」表現了作者什麼態度？",
+    "source": "《始得西山宴遊記》",
+    "options": [
+      {
+        "text": "縱情山水，放懷自適",
+        "isAnswer": true,
+        "explanation": "正確：與天地合而忘我，盡情享受自然與酒意。"
+      },
+      {
+        "text": "痛苦煩惱，借酒消愁",
+        "isAnswer": false,
+        "explanation": "錯誤：無憂苦之情。"
+      },
+      {
+        "text": "沉迷酒色",
+        "isAnswer": false,
+        "explanation": "錯誤：非沉溺聲色犬馬。"
+      },
+      {
+        "text": "厭世逃避",
+        "isAnswer": false,
+        "explanation": "錯誤：與避世無關。"
+      }
+    ],
+    "difficulty": "medium"
   }
 ]
