@@ -700,34 +700,6 @@
     "difficulty": "hard"
   },
   {
-    "id": 28,
-    "question": "《勸學》中「君子博學而日參省乎己」一句所體現的修辭手法是：",
-    "source": "《勸學》",
-    "options": [
-      {
-        "text": "對偶",
-        "isAnswer": true,
-        "explanation": "正確：句式對稱，結構工整，屬對偶。"
-      },
-      {
-        "text": "設問",
-        "isAnswer": false,
-        "explanation": "錯誤：無提出問題形式。"
-      },
-      {
-        "text": "借代",
-        "isAnswer": false,
-        "explanation": "錯誤：無用其他事物代替概念。"
-      },
-      {
-        "text": "排比",
-        "isAnswer": false,
-        "explanation": "錯誤：排比須三句或以上並列。"
-      }
-    ],
-    "difficulty": "medium"
-  },
-  {
     "id": 30,
     "question": "《廉頗藺相如列傳》中「欲以觀其意也」中的「觀」應解作：",
     "source": "《廉頗藺相如列傳》",
@@ -2042,5 +2014,481 @@
       }
     ],
     "difficulty": "medium"
+  },
+ {
+    "id": 81,
+    "question": "《論仁》中「仁者安仁，知者利仁」表達什麼意思？",
+    "source": "《論仁》",
+    "options": [
+      {
+        "text": "有仁德的人安於仁道，智者利用仁道",
+        "isAnswer": true,
+        "explanation": "正確：仁者自願實踐仁德，智者則為利而行仁。"
+      },
+      {
+        "text": "智者與仁者皆隨緣而安",
+        "isAnswer": false,
+        "explanation": "錯誤：未表達隨緣心態。"
+      },
+      {
+        "text": "智者更接近仁德",
+        "isAnswer": false,
+        "explanation": "錯誤：智者利用仁，並非更接近仁德。"
+      },
+      {
+        "text": "仁者無欲無求",
+        "isAnswer": false,
+        "explanation": "錯誤：與文意不符。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 82,
+    "question": "《論仁》中「志士仁人，無求生以害仁」所強調的是：",
+    "source": "《論仁》",
+    "options": [
+      {
+        "text": "重義輕生",
+        "isAnswer": true,
+        "explanation": "正確：寧捨生命而守仁道，重義輕生思想。"
+      },
+      {
+        "text": "珍惜生命",
+        "isAnswer": false,
+        "explanation": "錯誤：強調守義，非保命。"
+      },
+      {
+        "text": "順應時勢",
+        "isAnswer": false,
+        "explanation": "錯誤：非因應環境而改變。"
+      },
+      {
+        "text": "報仇雪恥",
+        "isAnswer": false,
+        "explanation": "錯誤：無此含義。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 83,
+    "question": "《論孝》中「父母唯其疾之憂」的「唯」是什麼意思？",
+    "source": "《論孝》",
+    "options": [
+      {
+        "text": "只",
+        "isAnswer": true,
+        "explanation": "正確：「唯」此處表限定，只，專一。"
+      },
+      {
+        "text": "順從",
+        "isAnswer": false,
+        "explanation": "錯誤：非服從之義。"
+      },
+      {
+        "text": "疑問語氣",
+        "isAnswer": false,
+        "explanation": "錯誤：未表疑問。"
+      },
+      {
+        "text": "呼喚",
+        "isAnswer": false,
+        "explanation": "錯誤：非呼喚語助詞。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 85,
+    "question": "《論君子》中「君子坦蕩蕩，小人長戚戚」中的「戚戚」意思是：",
+    "source": "《論君子》",
+    "options": [
+      {
+        "text": "憂愁不安",
+        "isAnswer": true,
+        "explanation": "正確：「戚戚」形容小人內心憂慮不安。"
+      },
+      {
+        "text": "悲哀流淚",
+        "isAnswer": false,
+        "explanation": "錯誤：並非外顯悲哀。"
+      },
+      {
+        "text": "吵鬧不休",
+        "isAnswer": false,
+        "explanation": "錯誤：與喧鬧無關。"
+      },
+      {
+        "text": "自負驕傲",
+        "isAnswer": false,
+        "explanation": "錯誤：相反含義。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 87,
+    "question": "《師說》中「人非生而知之者，孰能無惑？」這句的主要論證方法是：",
+    "source": "《師說》",
+    "options": [
+      {
+        "text": "反問",
+        "isAnswer": true,
+        "explanation": "正確：以反問方式引發思考，強調師教的重要性。"
+      },
+      {
+        "text": "對比",
+        "isAnswer": false,
+        "explanation": "錯誤：無對立比較。"
+      },
+      {
+        "text": "比喻",
+        "isAnswer": false,
+        "explanation": "錯誤：未用譬喻義。"
+      },
+      {
+        "text": "設問",
+        "isAnswer": false,
+        "explanation": "錯誤：文章後續未有回答問題。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 88,
+    "question": "《師說》中「無貴無賤，無長無少，道之所存，師之所存也」強調：",
+    "source": "《師說》",
+    "options": [
+      {
+        "text": "尊道重師，不分身份年齡",
+        "isAnswer": true,
+        "explanation": "正確：強調尊重道理、重視師道，無身份限制。"
+      },
+      {
+        "text": "老師年長必為師",
+        "isAnswer": false,
+        "explanation": "錯誤：非依年齡決定。"
+      },
+      {
+        "text": "以地位決定師道",
+        "isAnswer": false,
+        "explanation": "錯誤：文中明指不分貴賤。"
+      },
+      {
+        "text": "只重視長輩經驗",
+        "isAnswer": false,
+        "explanation": "錯誤：完全相反。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 89,
+    "question": "《師說》中「師者，所以傳道、受業、解惑也」中「道」意思是：",
+    "source": "《師說》",
+    "options": [
+      {
+        "text": "道理",
+        "isAnswer": true,
+        "explanation": "正確：「道」指人生原則、正道、道理。"
+      },
+      {
+        "text": "道路",
+        "isAnswer": false,
+        "explanation": "錯誤：非指路徑。"
+      },
+      {
+        "text": "方法",
+        "isAnswer": false,
+        "explanation": "錯誤：並非單指技巧方法。"
+      },
+      {
+        "text": "宗教信仰",
+        "isAnswer": false,
+        "explanation": "錯誤：無宗教意義。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 90,
+    "question": "《師說》中「惑而不從師，其為惑也，終不解矣」中「終」的意思是：",
+    "source": "《師說》",
+    "options": [
+      {
+        "text": "最終",
+        "isAnswer": true,
+        "explanation": "正確：表示最後、終究。"
+      },
+      {
+        "text": "開始",
+        "isAnswer": false,
+        "explanation": "錯誤：含義完全相反。"
+      },
+      {
+        "text": "中途",
+        "isAnswer": false,
+        "explanation": "錯誤：非中間過程。"
+      },
+      {
+        "text": "暫時",
+        "isAnswer": false,
+        "explanation": "錯誤：並非短暫義。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 91,
+    "question": "《師說》中「師不必賢於弟子」的意思是：",
+    "source": "《師說》",
+    "options": [
+      {
+        "text": "老師不一定比學生更高明",
+        "isAnswer": true,
+        "explanation": "正確：表明學習對象不以能力高低作限制。"
+      },
+      {
+        "text": "學生都比老師優秀",
+        "isAnswer": false,
+        "explanation": "錯誤：非一概比較高低。"
+      },
+      {
+        "text": "老師無需學問",
+        "isAnswer": false,
+        "explanation": "錯誤：不否認老師學問。"
+      },
+      {
+        "text": "學生應當不信任老師",
+        "isAnswer": false,
+        "explanation": "錯誤：文意完全相反。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 92,
+    "question": "《師說》中「師道之不傳也久矣」的「傳」意思是：",
+    "source": "《師說》",
+    "options": [
+      {
+        "text": "傳承",
+        "isAnswer": true,
+        "explanation": "正確：指流傳、繼承之意。"
+      },
+      {
+        "text": "講授",
+        "isAnswer": false,
+        "explanation": "錯誤：並非單指授課。"
+      },
+      {
+        "text": "流行",
+        "isAnswer": false,
+        "explanation": "錯誤：非泛指風氣盛行。"
+      },
+      {
+        "text": "傳送",
+        "isAnswer": false,
+        "explanation": "錯誤：無寄送意義。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 93,
+    "question": "《師說》中「今其智乃反不能及」中的「及」意思是：",
+    "source": "《師說》",
+    "options": [
+      {
+        "text": "達到",
+        "isAnswer": true,
+        "explanation": "正確：指趕上、達到之意。"
+      },
+      {
+        "text": "及時",
+        "isAnswer": false,
+        "explanation": "錯誤：並非時間義。"
+      },
+      {
+        "text": "涉及",
+        "isAnswer": false,
+        "explanation": "錯誤：非論及或關聯。"
+      },
+      {
+        "text": "平等",
+        "isAnswer": false,
+        "explanation": "錯誤：無平等含義。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 94,
+    "question": "《師說》中「巫醫、樂師、百工之人，不恥相師」這句話主要用於：",
+    "source": "《師說》",
+    "options": [
+      {
+        "text": "論證尊師應超越身份",
+        "isAnswer": true,
+        "explanation": "正確：指出技藝之人尚知互相學習，更應尊師。"
+      },
+      {
+        "text": "批評巫醫技藝低劣",
+        "isAnswer": false,
+        "explanation": "錯誤：並無貶抑之意。"
+      },
+      {
+        "text": "稱讚百工技藝高超",
+        "isAnswer": false,
+        "explanation": "錯誤：非專重讚美技藝本身。"
+      },
+      {
+        "text": "否定音樂和醫術價值",
+        "isAnswer": false,
+        "explanation": "錯誤：文意相反。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 95,
+    "question": "《勸學》中「木直中繩，輮以為輪，其曲中規」的「輮」意思是：",
+    "source": "《勸學》",
+    "options": [
+      {
+        "text": "煮曲",
+        "isAnswer": true,
+        "explanation": "正確：指把木材加熱或浸泡，使其柔軟後彎曲。"
+      },
+      {
+        "text": "繞圈",
+        "isAnswer": false,
+        "explanation": "錯誤：非圓形旋繞之義。"
+      },
+      {
+        "text": "修剪",
+        "isAnswer": false,
+        "explanation": "錯誤：非裁削義。"
+      },
+      {
+        "text": "斷裂",
+        "isAnswer": false,
+        "explanation": "錯誤：無折斷義。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 96,
+    "question": "《勸學》中「君子博學而日參省乎己」中「參省」意思是：",
+    "source": "《勸學》",
+    "options": [
+      {
+        "text": "反省檢討",
+        "isAnswer": true,
+        "explanation": "正確：指多方檢查反省自己的行為。"
+      },
+      {
+        "text": "參拜請示",
+        "isAnswer": false,
+        "explanation": "錯誤：非宗教行為。"
+      },
+      {
+        "text": "交叉比較",
+        "isAnswer": false,
+        "explanation": "錯誤：無比較義。"
+      },
+      {
+        "text": "商議計畫",
+        "isAnswer": false,
+        "explanation": "錯誤：無商議含義。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 97,
+    "question": "《勸學》中「假輿馬者，非利足也，而致千里」說明了什麼道理？",
+    "source": "《勸學》",
+    "options": [
+      {
+        "text": "善用外物可助人達遠",
+        "isAnswer": true,
+        "explanation": "正確：比喻借助外力（師友）提升自我。"
+      },
+      {
+        "text": "靠馬車勝過步行",
+        "isAnswer": false,
+        "explanation": "錯誤：非表面層意。"
+      },
+      {
+        "text": "乘車一定安全",
+        "isAnswer": false,
+        "explanation": "錯誤：完全錯誤。"
+      },
+      {
+        "text": "強調節省體力",
+        "isAnswer": false,
+        "explanation": "錯誤：文意非體能方面。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 98,
+    "question": "《勸學》中「青，取之於藍，而青於藍」的「青於藍」含義是：",
+    "source": "《勸學》",
+    "options": [
+      {
+        "text": "後出之秀，勝過前者",
+        "isAnswer": true,
+        "explanation": "正確：比喻學生超越老師。"
+      },
+      {
+        "text": "顏色相同",
+        "isAnswer": false,
+        "explanation": "錯誤：無相同之意。"
+      },
+      {
+        "text": "不如藍色鮮艷",
+        "isAnswer": false,
+        "explanation": "錯誤：相反。"
+      },
+      {
+        "text": "依附原物",
+        "isAnswer": false,
+        "explanation": "錯誤：未強調依附。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 99,
+    "question": "《勸學》中「鍥而舍之，朽木不折；鍥而不舍，金石可鏤」的修辭手法是：",
+    "source": "《勸學》",
+    "options": [
+      {
+        "text": "對比",
+        "isAnswer": true,
+        "explanation": "正確：強烈對比持之以恆與半途而廢。"
+      },
+      {
+        "text": "排比",
+        "isAnswer": false,
+        "explanation": "錯誤：未連續多句並列。"
+      },
+      {
+        "text": "設問",
+        "isAnswer": false,
+        "explanation": "錯誤：無疑問句。"
+      },
+      {
+        "text": "反問",
+        "isAnswer": false,
+        "explanation": "錯誤：無反問句式。"
+      }
+    ],
+    "difficulty": "hard"
   }
 ]
