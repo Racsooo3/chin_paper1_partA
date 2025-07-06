@@ -1,0 +1,850 @@
+[
+  {
+    "id": 1,
+    "question": "「臣誠恐見欺於王而負趙」中「負」的意思是：",
+    "source": "《廉頗藺相如列傳》",
+    "options": [
+      {
+        "text": "辜負",
+        "isAnswer": true,
+        "explanation": "正確：「負趙」即辜負趙國對自己的信任。"
+      },
+      {
+        "text": "承擔",
+        "isAnswer": false,
+        "explanation": "錯誤：語境中並非表達責任的承擔，而是對信任的辜負。"
+      },
+      {
+        "text": "擊敗",
+        "isAnswer": false,
+        "explanation": "錯誤：「負」可解作勝過，但語境為道德層面的虧負。"
+      },
+      {
+        "text": "記仇",
+        "isAnswer": false,
+        "explanation": "錯誤：與「懷恨在心」混淆，無此情緒表達。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "question": "「朝暉夕陰，氣象萬千」中「氣象」的意思是：",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "景象",
+        "isAnswer": true,
+        "explanation": "正確：指自然景觀的變化，並非現代的天氣預報。"
+      },
+      {
+        "text": "氣溫",
+        "isAnswer": false,
+        "explanation": "錯誤：雖為氣象一環，但本句重點在景象多變。"
+      },
+      {
+        "text": "神態",
+        "isAnswer": false,
+        "explanation": "錯誤：「氣象」非描寫人物表現。"
+      },
+      {
+        "text": "風氣",
+        "isAnswer": false,
+        "explanation": "錯誤：風氣屬抽象社會現象，非自然景象。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "「生乎吾前，其聞道也固先乎吾」中「固」的意思是：",
+    "source": "《師說》",
+    "options": [
+      {
+        "text": "本來",
+        "isAnswer": true,
+        "explanation": "正確：作副詞，表示理所當然。"
+      },
+      {
+        "text": "堅固",
+        "isAnswer": false,
+        "explanation": "錯誤：常見詞義，但語境非指物體性質。"
+      },
+      {
+        "text": "堅決",
+        "isAnswer": false,
+        "explanation": "錯誤：與心理狀態相關，語意不符。"
+      },
+      {
+        "text": "甚至",
+        "isAnswer": false,
+        "explanation": "錯誤：「固」此處為強調副詞，無遞進語氣。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 4,
+    "question": "「誠宜開張聖聽」中「開張」的意思是：",
+    "source": "《出師表》",
+    "options": [
+      {
+        "text": "擴大",
+        "isAnswer": true,
+        "explanation": "正確：「開張聖聽」即擴大皇帝納諫的範圍。"
+      },
+      {
+        "text": "開始",
+        "isAnswer": false,
+        "explanation": "錯誤：非初次建立，而是加強或放大。"
+      },
+      {
+        "text": "張貼",
+        "isAnswer": false,
+        "explanation": "錯誤：現代詞義，與古文語境無關。"
+      },
+      {
+        "text": "高舉",
+        "isAnswer": false,
+        "explanation": "錯誤：非表示舉起或支持之意。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 5,
+    "question": "「為國者無使為積威之所劫哉」中「劫」的意思是：",
+    "source": "《六國論》",
+    "options": [
+      {
+        "text": "脅迫",
+        "isAnswer": true,
+        "explanation": "正確：「積威之所劫」意指被長期威勢脅迫。"
+      },
+      {
+        "text": "搶奪",
+        "isAnswer": false,
+        "explanation": "錯誤：雖常作此義，但本文無掠奪意涵。"
+      },
+      {
+        "text": "破壞",
+        "isAnswer": false,
+        "explanation": "錯誤：語境中指心理與策略的壓迫。"
+      },
+      {
+        "text": "限制",
+        "isAnswer": false,
+        "explanation": "錯誤：「劫」表強力威脅，非制度性限制。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 6,
+    "question": "「肉袒伏斧質請罪」中「質」的意思是：",
+    "source": "《廉頗藺相如列傳》",
+    "options": [
+      {
+        "text": "刑具",
+        "isAnswer": true,
+        "explanation": "正確：「斧質」即刑罰工具，用以請罪。"
+      },
+      {
+        "text": "人質",
+        "isAnswer": false,
+        "explanation": "錯誤：語境無談判或交換之意。"
+      },
+      {
+        "text": "誠意",
+        "isAnswer": false,
+        "explanation": "錯誤：「質」非心意或態度，而是實體物品。"
+      },
+      {
+        "text": "身體",
+        "isAnswer": false,
+        "explanation": "錯誤：混淆字義，非泛指人體。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 7,
+    "question": "「其賢不及孔子」中「其」的意思是：",
+    "source": "《師說》",
+    "options": [
+      {
+        "text": "他們的",
+        "isAnswer": true,
+        "explanation": "正確：代詞，指代前文所述之人。"
+      },
+      {
+        "text": "大概",
+        "isAnswer": false,
+        "explanation": "錯誤：此處無推測語氣。"
+      },
+      {
+        "text": "那個",
+        "isAnswer": false,
+        "explanation": "錯誤：非單指或特定名詞。"
+      },
+      {
+        "text": "是否",
+        "isAnswer": false,
+        "explanation": "錯誤：「其」無引導疑問句功能。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "question": "「庶竭駑鈍，攘除姦凶」中「攘」的意思是：",
+    "source": "《出師表》",
+    "options": [
+      {
+        "text": "排除",
+        "isAnswer": true,
+        "explanation": "正確：「攘除」即驅逐清除奸邪。"
+      },
+      {
+        "text": "佔據",
+        "isAnswer": false,
+        "explanation": "錯誤：「攘」此處無奪取意。"
+      },
+      {
+        "text": "援助",
+        "isAnswer": false,
+        "explanation": "錯誤：文中為反義，不是協助。"
+      },
+      {
+        "text": "收納",
+        "isAnswer": false,
+        "explanation": "錯誤：語義相反，非接納。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 9,
+    "question": "「六國互喪，率賂秦耶？」中「率」的意思是：",
+    "source": "《六國論》",
+    "options": [
+      {
+        "text": "都",
+        "isAnswer": true,
+        "explanation": "正確：表『全都』的意思，語氣加強。"
+      },
+      {
+        "text": "領導",
+        "isAnswer": false,
+        "explanation": "錯誤：非動詞用法。"
+      },
+      {
+        "text": "草率",
+        "isAnswer": false,
+        "explanation": "錯誤：詞義不符，無輕率之義。"
+      },
+      {
+        "text": "遵循",
+        "isAnswer": false,
+        "explanation": "錯誤：混淆「率由舊章」義。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 10,
+    "question": "「波瀾不驚」中「驚」的意思是：",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "動搖",
+        "isAnswer": true,
+        "explanation": "正確：形容水面平靜無波。"
+      },
+      {
+        "text": "震驚",
+        "isAnswer": false,
+        "explanation": "錯誤：常見現代語義，與物理狀態無關。"
+      },
+      {
+        "text": "嚇唬",
+        "isAnswer": false,
+        "explanation": "錯誤：與恐懼有關，非自然描寫。"
+      },
+      {
+        "text": "奔騰",
+        "isAnswer": false,
+        "explanation": "錯誤：為水勢激烈之狀，正好相反。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+
+
+
+
+  {
+    "id": 11,
+    "question": "「我見相如，必辱之」中「辱」的意思是：",
+    "source": "《廉頗藺相如列傳》",
+    "options": [
+      {
+        "text": "羞辱",
+        "isAnswer": true,
+        "explanation": "正確：表示有意讓對方受屈辱。"
+      },
+      {
+        "text": "受辱",
+        "isAnswer": false,
+        "explanation": "錯誤：語態不同，此句是主動使對方受辱。"
+      },
+      {
+        "text": "謙遜",
+        "isAnswer": false,
+        "explanation": "錯誤：與「辱」作謙詞義混淆，非敬詞。"
+      },
+      {
+        "text": "拖累",
+        "isAnswer": false,
+        "explanation": "錯誤：並非有牽連、牽制之意。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 12,
+    "question": "「秦以城求璧而趙不許」中「許」的意思是：",
+    "source": "《廉頗藺相如列傳》",
+    "options": [
+      {
+        "text": "答應",
+        "isAnswer": true,
+        "explanation": "正確：「不許」即不同意、不應允對方條件。"
+      },
+      {
+        "text": "批准",
+        "isAnswer": false,
+        "explanation": "錯誤：語義接近但上下不具審批關係。"
+      },
+      {
+        "text": "讚同",
+        "isAnswer": false,
+        "explanation": "錯誤：語氣偏軟，與君主決策無關。"
+      },
+      {
+        "text": "承諾",
+        "isAnswer": false,
+        "explanation": "錯誤：與「許下承諾」混淆，不合句式語義。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 13,
+    "question": "「誠宜開張聖聽，以光先帝遺德」中「光」的意思是：",
+    "source": "《出師表》",
+    "options": [
+      {
+        "text": "發揚",
+        "isAnswer": true,
+        "explanation": "正確：使先帝遺德發揚光大。"
+      },
+      {
+        "text": "光明",
+        "isAnswer": false,
+        "explanation": "錯誤：此處非形容明亮或光線。"
+      },
+      {
+        "text": "榮耀",
+        "isAnswer": false,
+        "explanation": "錯誤：意義近但語氣與語法不符。"
+      },
+      {
+        "text": "照耀",
+        "isAnswer": false,
+        "explanation": "錯誤：無照亮或照射的語境。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 14,
+    "question": "「不賂者以賂者喪」中「喪」的意思是：",
+    "source": "《六國論》",
+    "options": [
+      {
+        "text": "滅亡",
+        "isAnswer": true,
+        "explanation": "正確：指國家因賄賂政策而導致亡國。"
+      },
+      {
+        "text": "喪禮",
+        "isAnswer": false,
+        "explanation": "錯誤：此處不涉喪葬、死亡禮儀。"
+      },
+      {
+        "text": "悲傷",
+        "isAnswer": false,
+        "explanation": "錯誤：與哀傷義混淆。"
+      },
+      {
+        "text": "失落",
+        "isAnswer": false,
+        "explanation": "錯誤：語義範圍過廣，與國家毀滅不符。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 15,
+    "question": "「一鼓作氣，再而衰，三而竭」中「竭」的意思是：",
+    "source": "《曹劌論戰》",
+    "options": [
+      {
+        "text": "耗盡",
+        "isAnswer": true,
+        "explanation": "正確：士氣在第三次鼓舞時已消耗殆盡。"
+      },
+      {
+        "text": "結束",
+        "isAnswer": false,
+        "explanation": "錯誤：竭強調精力或氣力用盡，非單純結束。"
+      },
+      {
+        "text": "敗退",
+        "isAnswer": false,
+        "explanation": "錯誤：與戰爭結果混淆，非指士氣狀況。"
+      },
+      {
+        "text": "破產",
+        "isAnswer": false,
+        "explanation": "錯誤：現代引申義，與古文語境無關。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 16,
+    "question": "「此人皆意有所鬱結」中「鬱結」的意思是：",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "情緒抑鬱",
+        "isAnswer": true,
+        "explanation": "正確：指胸中鬱悶、情緒不能暢達。"
+      },
+      {
+        "text": "茂密纏繞",
+        "isAnswer": false,
+        "explanation": "錯誤：『鬱』可有植物繁盛義，但非此語境。"
+      },
+      {
+        "text": "固執己見",
+        "isAnswer": false,
+        "explanation": "錯誤：混淆詞義，『鬱結』非指思想頑固。"
+      },
+      {
+        "text": "依依不捨",
+        "isAnswer": false,
+        "explanation": "錯誤：無留戀之意，與鬱悶義不符。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 17,
+    "question": "「庶幾塞淵、息民、無使為積威之所劫」中「庶幾」的意思是：",
+    "source": "《六國論》",
+    "options": [
+      {
+        "text": "希望可以",
+        "isAnswer": true,
+        "explanation": "正確：古文常用語，表示期盼實現某事。"
+      },
+      {
+        "text": "大概",
+        "isAnswer": false,
+        "explanation": "錯誤：語氣與推測性質不符。"
+      },
+      {
+        "text": "幾乎",
+        "isAnswer": false,
+        "explanation": "錯誤：雖為常見解釋，但語義不通順。"
+      },
+      {
+        "text": "或許可以",
+        "isAnswer": false,
+        "explanation": "錯誤：語氣過弱，「庶幾」較強烈而正面。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 18,
+    "question": "「愛其子，擇師而教之」中「擇」的意思是：",
+    "source": "《師說》",
+    "options": [
+      {
+        "text": "挑選",
+        "isAnswer": true,
+        "explanation": "正確：『擇師』即選擇適當老師。"
+      },
+      {
+        "text": "捨棄",
+        "isAnswer": false,
+        "explanation": "錯誤：與選擇相反義，文意不符。"
+      },
+      {
+        "text": "安排",
+        "isAnswer": false,
+        "explanation": "錯誤：雖為動詞，但語意偏離。"
+      },
+      {
+        "text": "徵召",
+        "isAnswer": false,
+        "explanation": "錯誤：非命令式動詞語境。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 19,
+    "question": "「秦王恐其破璧，乃辭謝固請」中「固」的意思是：",
+    "source": "《廉頗藺相如列傳》",
+    "options": [
+      {
+        "text": "堅決",
+        "isAnswer": true,
+        "explanation": "正確：表示態度堅決，強調請求之意。"
+      },
+      {
+        "text": "堅固",
+        "isAnswer": false,
+        "explanation": "錯誤：語境非指實物堅硬。"
+      },
+      {
+        "text": "固執",
+        "isAnswer": false,
+        "explanation": "錯誤：語氣無負面含義，與用意不合。"
+      },
+      {
+        "text": "本來",
+        "isAnswer": false,
+        "explanation": "錯誤：此非表述過去或原貌。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 20,
+    "question": "「至若春和景明，波瀾不驚」中「明」的意思是：",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "明亮",
+        "isAnswer": true,
+        "explanation": "正確：描述天氣晴朗，景物清明。"
+      },
+      {
+        "text": "清楚",
+        "isAnswer": false,
+        "explanation": "錯誤：非視覺辨別或理解義。"
+      },
+      {
+        "text": "聰明",
+        "isAnswer": false,
+        "explanation": "錯誤：形容人智慧，不合語境。"
+      },
+      {
+        "text": "光滑",
+        "isAnswer": false,
+        "explanation": "錯誤：無物理特質相關語意。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+
+
+
+
+  {
+    "id": 21,
+    "question": "「雖有槁暴，不復挺者」中「挺」的意思是：",
+    "source": "《魚我所欲也》",
+    "options": [
+      {
+        "text": "挺直",
+        "isAnswer": true,
+        "explanation": "正確：形容枝條不能再伸直、挺立。"
+      },
+      {
+        "text": "突圍",
+        "isAnswer": false,
+        "explanation": "錯誤：「挺」此處為形容狀態，非動作。"
+      },
+      {
+        "text": "伸展",
+        "isAnswer": false,
+        "explanation": "錯誤：語義類似但偏離原句主旨的『直立』。"
+      },
+      {
+        "text": "傾斜",
+        "isAnswer": false,
+        "explanation": "錯誤：語義相反，不符合上下文。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 22,
+    "question": "「樹林陰翳，鳴聲上下」中「陰翳」的意思是：",
+    "source": "《始得西山宴遊記》",
+    "options": [
+      {
+        "text": "幽暗遮蔽",
+        "isAnswer": true,
+        "explanation": "正確：形容樹林茂密，光線難入。"
+      },
+      {
+        "text": "陰涼清爽",
+        "isAnswer": false,
+        "explanation": "錯誤：非單指氣候舒適，而是光線問題。"
+      },
+      {
+        "text": "烏雲密佈",
+        "isAnswer": false,
+        "explanation": "錯誤：語境描述林蔭，非天象。"
+      },
+      {
+        "text": "靜寂無聲",
+        "isAnswer": false,
+        "explanation": "錯誤：句中有「鳴聲」，顯然非寂靜之意。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 23,
+    "question": "「所識窮乏者得我與？」中「得」的意思是：",
+    "source": "《魚我所欲也》",
+    "options": [
+      {
+        "text": "感激",
+        "isAnswer": true,
+        "explanation": "正確：「得我」即對我心懷感激。"
+      },
+      {
+        "text": "得到",
+        "isAnswer": false,
+        "explanation": "錯誤：語意上不通，重點在於情感反應。"
+      },
+      {
+        "text": "明白",
+        "isAnswer": false,
+        "explanation": "錯誤：並無理解或覺察之義。"
+      },
+      {
+        "text": "認同",
+        "isAnswer": false,
+        "explanation": "錯誤：句中無價值判斷或觀點一致。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 24,
+    "question": "「舉匏樽以相屬」中「屬」的意思是：",
+    "source": "《始得西山宴遊記》",
+    "options": [
+      {
+        "text": "勸酒",
+        "isAnswer": true,
+        "explanation": "正確：古代習俗中以言語邀人飲酒。"
+      },
+      {
+        "text": "屬於",
+        "isAnswer": false,
+        "explanation": "錯誤：此處非歸屬關係。"
+      },
+      {
+        "text": "接連",
+        "isAnswer": false,
+        "explanation": "錯誤：語意過於籠統，非敬酒動作。"
+      },
+      {
+        "text": "依附",
+        "isAnswer": false,
+        "explanation": "錯誤：與句義無關，非講從屬關係。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 25,
+    "question": "「與嬰兒獸處」中「處」的意思是：",
+    "source": "《逍遙遊》",
+    "options": [
+      {
+        "text": "相處",
+        "isAnswer": true,
+        "explanation": "正確：與嬰兒、野獸共處而不分彼此。"
+      },
+      {
+        "text": "地方",
+        "isAnswer": false,
+        "explanation": "錯誤：「處」為動詞，非名詞地點。"
+      },
+      {
+        "text": "躲藏",
+        "isAnswer": false,
+        "explanation": "錯誤：無逃避或隱藏語意。"
+      },
+      {
+        "text": "懲處",
+        "isAnswer": false,
+        "explanation": "錯誤：現代語義引申，非古文語境。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 26,
+    "question": "「則施施而行，漫漫而遊」中「施施」的意思是：",
+    "source": "《逍遙遊》",
+    "options": [
+      {
+        "text": "緩慢從容",
+        "isAnswer": true,
+        "explanation": "正確：形容人行動自在，步履穩緩。"
+      },
+      {
+        "text": "四處奔走",
+        "isAnswer": false,
+        "explanation": "錯誤：與文中「逍遙」精神相違。"
+      },
+      {
+        "text": "搖擺不定",
+        "isAnswer": false,
+        "explanation": "錯誤：未見猶豫或不穩之義。"
+      },
+      {
+        "text": "勉力前行",
+        "isAnswer": false,
+        "explanation": "錯誤：文義為悠然非艱難。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 27,
+    "question": "「然後知是山之特立」中「特立」的意思是：",
+    "source": "《始得西山宴遊記》",
+    "options": [
+      {
+        "text": "卓然獨立",
+        "isAnswer": true,
+        "explanation": "正確：指山勢高峻，獨自矗立。"
+      },
+      {
+        "text": "特別建築",
+        "isAnswer": false,
+        "explanation": "錯誤：與人造建物無關。"
+      },
+      {
+        "text": "挺拔俊朗",
+        "isAnswer": false,
+        "explanation": "錯誤：有誤導性但語義過於個人化。"
+      },
+      {
+        "text": "孤單站立",
+        "isAnswer": false,
+        "explanation": "錯誤：「孤單」含情緒色彩，文中無此。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 28,
+    "question": "「其志潔，故其稱物芳」中「稱」的意思是：",
+    "source": "《漁父》",
+    "options": [
+      {
+        "text": "讚美",
+        "isAnswer": true,
+        "explanation": "正確：指因志行高潔而受稱頌。"
+      },
+      {
+        "text": "稱呼",
+        "isAnswer": false,
+        "explanation": "錯誤：無命名之義。"
+      },
+      {
+        "text": "匹配",
+        "isAnswer": false,
+        "explanation": "錯誤：常見用法但非讚譽語境。"
+      },
+      {
+        "text": "自誇",
+        "isAnswer": false,
+        "explanation": "錯誤：「稱」非主動自我吹噓。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 29,
+    "question": "「則久而不怠，荒年亦足以分人」中「怠」的意思是：",
+    "source": "《曹劌論戰》",
+    "options": [
+      {
+        "text": "懈怠",
+        "isAnswer": true,
+        "explanation": "正確：形容不因時間久而懶散。"
+      },
+      {
+        "text": "疲累",
+        "isAnswer": false,
+        "explanation": "錯誤：詞義接近但焦點不同，非體力問題。"
+      },
+      {
+        "text": "擱置",
+        "isAnswer": false,
+        "explanation": "錯誤：與「廢棄」義混淆，語境不符。"
+      },
+      {
+        "text": "缺席",
+        "isAnswer": false,
+        "explanation": "錯誤：「怠」非指人不到場或消極。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 30,
+    "question": "「臣之進退，實為狼狽」中「狼狽」的意思是：",
+    "source": "《出師表》",
+    "options": [
+      {
+        "text": "進退兩難",
+        "isAnswer": true,
+        "explanation": "正確：用以形容處境艱難、左右為難。"
+      },
+      {
+        "text": "驚恐逃竄",
+        "isAnswer": false,
+        "explanation": "錯誤：常與狼狽形象連結，但非此義。"
+      },
+      {
+        "text": "狼與狽兩獸",
+        "isAnswer": false,
+        "explanation": "錯誤：雖為典故來源，但文中為比喻義。"
+      },
+      {
+        "text": "手忙腳亂",
+        "isAnswer": false,
+        "explanation": "錯誤：形容慌亂，不等於抉擇困難。"
+      }
+    ],
+    "difficulty": "hard"
+  }
+]
