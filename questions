@@ -1484,34 +1484,6 @@
     "difficulty": "hard"
   },
   {
-    "id": 61,
-    "question": "《出師表》中「若有作姦犯科及為忠善者，皆為陛下所察察」中「察察」的意思是：",
-    "source": "《出師表》",
-    "options": [
-      {
-        "text": "明察",
-        "isAnswer": true,
-        "explanation": "正確：指清楚明察、辨別是非。"
-      },
-      {
-        "text": "觀察",
-        "isAnswer": false,
-        "explanation": "錯誤：不單指外表觀看。"
-      },
-      {
-        "text": "思考",
-        "isAnswer": false,
-        "explanation": "錯誤：非指思索。"
-      },
-      {
-        "text": "評論",
-        "isAnswer": false,
-        "explanation": "錯誤：無評斷意。"
-      }
-    ],
-    "difficulty": "medium"
-  },
-  {
     "id": 62,
     "question": "《六國論》中「而秦師不閑於敝」中的「敝」是什麼意思？",
     "source": "《六國論》",
