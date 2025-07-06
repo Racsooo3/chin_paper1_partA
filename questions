@@ -2490,5 +2490,313 @@
       }
     ],
     "difficulty": "hard"
+  },
+{
+    "id": 100,
+    "question": "《岳陽樓記》中「滕子京謫守巴陵郡」的「謫」意思是：",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "貶謫",
+        "isAnswer": true,
+        "explanation": "正確：指被貶官至外地任職。"
+      },
+      {
+        "text": "告誡",
+        "isAnswer": false,
+        "explanation": "錯誤：並非勸告之義。"
+      },
+      {
+        "text": "拜任",
+        "isAnswer": false,
+        "explanation": "錯誤：與任用無關。"
+      },
+      {
+        "text": "巡視",
+        "isAnswer": false,
+        "explanation": "錯誤：無視察義。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 101,
+    "question": "「遷客騷人，多會於此」中的「會」意思是：",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "聚集",
+        "isAnswer": true,
+        "explanation": "正確：此處作聚會、會集之意。"
+      },
+      {
+        "text": "遇見",
+        "isAnswer": false,
+        "explanation": "錯誤：非相遇之義。"
+      },
+      {
+        "text": "理解",
+        "isAnswer": false,
+        "explanation": "錯誤：並非領會含義。"
+      },
+      {
+        "text": "適合",
+        "isAnswer": false,
+        "explanation": "錯誤：無適合之意。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 102,
+    "question": "「氣象萬千」一語所描寫的景象主要是：",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "壯麗多變",
+        "isAnswer": true,
+        "explanation": "正確：形容湖面壯闊、景象多變，氣勢雄偉。"
+      },
+      {
+        "text": "寧靜安詳",
+        "isAnswer": false,
+        "explanation": "錯誤：與壯麗相反。"
+      },
+      {
+        "text": "陰沉淒冷",
+        "isAnswer": false,
+        "explanation": "錯誤：文中無此情緒。"
+      },
+      {
+        "text": "狹窄閉塞",
+        "isAnswer": false,
+        "explanation": "錯誤：與開闊對立。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 103,
+    "question": "「朝暉夕陰，氣象萬千」一句的修辭手法是：",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "對偶",
+        "isAnswer": true,
+        "explanation": "正確：上下句結構對稱，形成對偶句式。"
+      },
+      {
+        "text": "排比",
+        "isAnswer": false,
+        "explanation": "錯誤：無多句並列。"
+      },
+      {
+        "text": "設問",
+        "isAnswer": false,
+        "explanation": "錯誤：非疑問句。"
+      },
+      {
+        "text": "借代",
+        "isAnswer": false,
+        "explanation": "錯誤：未以物代物。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 104,
+    "question": "「去國懷鄉，憂讒畏譏」一句中，「去國」的意思是：",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "離開故國",
+        "isAnswer": true,
+        "explanation": "正確：「去國」指離開故鄉、國都。"
+      },
+      {
+        "text": "驅逐國人",
+        "isAnswer": false,
+        "explanation": "錯誤：並非驅逐他人。"
+      },
+      {
+        "text": "治理國家",
+        "isAnswer": false,
+        "explanation": "錯誤：無統治含義。"
+      },
+      {
+        "text": "旅行遊歷",
+        "isAnswer": false,
+        "explanation": "錯誤：並非旅行。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 105,
+    "question": "「春和景明，波瀾不驚」中的「景」意思是：",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "日光",
+        "isAnswer": true,
+        "explanation": "正確：「景」此處指日光，晴朗之意。"
+      },
+      {
+        "text": "景色",
+        "isAnswer": false,
+        "explanation": "錯誤：非泛指景色。"
+      },
+      {
+        "text": "形勢",
+        "isAnswer": false,
+        "explanation": "錯誤：無勢態義。"
+      },
+      {
+        "text": "景仰",
+        "isAnswer": false,
+        "explanation": "錯誤：無尊敬之義。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 106,
+    "question": "「上下天光，一碧萬頃」所描繪的湖面意境是：",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "開闊無邊",
+        "isAnswer": true,
+        "explanation": "正確：湖面與天光相接，廣闊無垠之意境。"
+      },
+      {
+        "text": "險峻崎嶇",
+        "isAnswer": false,
+        "explanation": "錯誤：無險峻感。"
+      },
+      {
+        "text": "悲涼冷寂",
+        "isAnswer": false,
+        "explanation": "錯誤：文中此句景象明快開闊。"
+      },
+      {
+        "text": "幽深晦暗",
+        "isAnswer": false,
+        "explanation": "錯誤：無陰鬱含義。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 107,
+    "question": "「把酒臨風，其喜洋洋者矣」表現了什麼心情？",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "自得其樂",
+        "isAnswer": true,
+        "explanation": "正確：描寫遊人暢快自得，心情舒暢。"
+      },
+      {
+        "text": "沉迷醉酒",
+        "isAnswer": false,
+        "explanation": "錯誤：非指沉溺。"
+      },
+      {
+        "text": "孤獨淒涼",
+        "isAnswer": false,
+        "explanation": "錯誤：無孤寂之感。"
+      },
+      {
+        "text": "憤懣不平",
+        "isAnswer": false,
+        "explanation": "錯誤：並無憤怒含義。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 108,
+    "question": "「陰風怒號，濁浪排空」一句使用了什麼修辭手法？",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "擬人",
+        "isAnswer": true,
+        "explanation": "正確：風被擬人為憤怒吼叫，浪似排山倒海。"
+      },
+      {
+        "text": "借代",
+        "isAnswer": false,
+        "explanation": "錯誤：無代指其他事物。"
+      },
+      {
+        "text": "誇張",
+        "isAnswer": false,
+        "explanation": "錯誤：主要是擬人。"
+      },
+      {
+        "text": "反問",
+        "isAnswer": false,
+        "explanation": "錯誤：無疑問句式。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 109,
+    "question": "「日星隱耀，山岳潛形」的意思是：",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "光線暗淡，山形隱沒",
+        "isAnswer": true,
+        "explanation": "正確：指風雨交加，光線昏暗，山形消失。"
+      },
+      {
+        "text": "太陽與星辰交替出現",
+        "isAnswer": false,
+        "explanation": "錯誤：非交替義。"
+      },
+      {
+        "text": "星星閃爍，山形突出",
+        "isAnswer": false,
+        "explanation": "錯誤：意義相反。"
+      },
+      {
+        "text": "白天黑夜輪轉",
+        "isAnswer": false,
+        "explanation": "錯誤：無時間交替義。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 110,
+    "question": "「登斯樓也，則有去國懷鄉，憂讒畏譏」這句表現什麼情感？",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "仕途坎坷的憂愁",
+        "isAnswer": true,
+        "explanation": "正確：表現失意士人的愁苦感懷。"
+      },
+      {
+        "text": "對戰亂的恐懼",
+        "isAnswer": false,
+        "explanation": "錯誤：並非戰亂恐懼。"
+      },
+      {
+        "text": "離別親友的哀傷",
+        "isAnswer": false,
+        "explanation": "錯誤：重點在仕途遭遇。"
+      },
+      {
+        "text": "對未來的期盼",
+        "isAnswer": false,
+        "explanation": "錯誤：文中是憂懼而非期盼。"
+      }
+    ],
+    "difficulty": "medium"
   }
 ]
