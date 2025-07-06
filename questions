@@ -1848,34 +1848,6 @@
     "difficulty": "medium"
   },
   {
-    "id": 74,
-    "question": "《始得西山宴遊記》中「其高下之勢，岈然窪然」句運用了什麼修辭？",
-    "source": "《始得西山宴遊記》",
-    "options": [
-      {
-        "text": "疊字",
-        "isAnswer": true,
-        "explanation": "正確：使用疊字「岈然」「窪然」，加強高低起伏之感。"
-      },
-      {
-        "text": "借代",
-        "isAnswer": false,
-        "explanation": "錯誤：未以事物代他物。"
-      },
-      {
-        "text": "設問",
-        "isAnswer": false,
-        "explanation": "錯誤：無疑問語氣。"
-      },
-      {
-        "text": "排比",
-        "isAnswer": false,
-        "explanation": "錯誤：未並列三句或以上。"
-      }
-    ],
-    "difficulty": "medium"
-  },
-  {
     "id": 75,
     "question": "《始得西山宴遊記》中「洋洋乎與造物者遊」中「造物者」指的是：",
     "source": "《始得西山宴遊記》",
