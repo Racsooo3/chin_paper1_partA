@@ -2862,5 +2862,125 @@
       { "text": "君子周而不比，小人比而不周", "isAnswer": true, "explanation": "正確：孔子此言即區分君子小人，與諸葛亮治國理念吻合。" }
     ],
     "difficulty": "hard"
+  },
+  {
+    "id": 121,
+    "question": "《廉頗藺相如列傳》中藺相如「引車避匿」，與《魚我所欲也》中的何句最能表達相近的價值觀？",
+    "source": "《廉頗藺相如列傳》《魚我所欲也》",
+    "options": [
+      { "text": "生亦我所欲，義亦我所欲", "isAnswer": true, "explanation": "正確：藺相如為國避讓，體現重義輕利的道德選擇，與孟子思想一致。" },
+      { "text": "所欲有甚於生者", "isAnswer": false, "explanation": "錯誤：此句較籠統，未直接展現義與利的權衡。" },
+      { "text": "由是則生而有不用也", "isAnswer": false, "explanation": "錯誤：語義偏重不義之行，未表現藺相如的處事方式。" },
+      { "text": "萬鍾則不辨禮義而受之", "isAnswer": false, "explanation": "錯誤：這是反面論述，與藺相如選擇相悖。" }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 122,
+    "question": "《逍遙遊》中「無所待」的思想與下列哪一篇最接近？",
+    "source": "《逍遙遊》《念奴嬌．赤壁懷古》",
+    "options": [
+      { "text": "大江東去，浪淘盡，千古風流人物", "isAnswer": false, "explanation": "錯誤：此句偏重歷史興亡，非哲理探討。" },
+      { "text": "人生如夢，一尊還酹江月", "isAnswer": true, "explanation": "正確：蘇軾以超然之情觀人生，如夢如幻，近莊子之『逍遙』。" },
+      { "text": "羽化而登仙", "isAnswer": false, "explanation": "錯誤：非原文，且與蘇詞基調不符。" },
+      { "text": "亂石穿空，驚濤拍岸", "isAnswer": false, "explanation": "錯誤：描寫自然景象，與哲理無關。" }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 123,
+    "question": "《出師表》諸葛亮所表現的忠誠與憂思，與《岳陽樓記》中哪句最為呼應？",
+    "source": "《出師表》《岳陽樓記》",
+    "options": [
+      { "text": "先天下之憂而憂，後天下之樂而樂", "isAnswer": true, "explanation": "正確：皆強調以天下為念，不圖個人安逸。" },
+      { "text": "不以物喜，不以己悲", "isAnswer": false, "explanation": "錯誤：此句談情緒節制，未表現憂國之情。" },
+      { "text": "予觀夫巴陵勝狀，在洞庭一湖", "isAnswer": false, "explanation": "錯誤：寫景語句，與主旨不符。" },
+      { "text": "然則北通巫峽，南極瀟湘", "isAnswer": false, "explanation": "錯誤：仍為地理描寫，無忠憂情懷。" }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 124,
+    "question": "《魚我所欲也》中孟子強調「不義而富且貴，於我如浮雲」，其價值觀與下列哪句最一致？",
+    "source": "《魚我所欲也》《師說》",
+    "options": [
+      { "text": "巫醫樂師百工之人，不恥相師", "isAnswer": false, "explanation": "錯誤：重在尊師，非談義利之辨。" },
+      { "text": "聖人無常師", "isAnswer": false, "explanation": "錯誤：重在學習態度，不涉及義利。" },
+      { "text": "嗟乎！師道之不復，可知矣", "isAnswer": false, "explanation": "錯誤：批評社會風氣，非道德價值探討。" },
+      { "text": "生，亦我所欲；義，亦我所欲", "isAnswer": true, "explanation": "正確：此句直接點出義重於生，與「浮雲」之意一致。" }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 125,
+    "question": "《登樓》中的「萬里悲秋常作客」與《聲聲慢》中的情感氣氛相近，皆為：",
+    "source": "《登樓》《聲聲慢》",
+    "options": [
+      { "text": "壯懷激烈", "isAnswer": false, "explanation": "錯誤：皆表悲苦凄涼，非激昂壯闊。" },
+      { "text": "孤寂哀愁", "isAnswer": true, "explanation": "正確：兩者皆描寫身世飄零、孤苦無依的哀愁情懷。" },
+      { "text": "鄉關難忘", "isAnswer": false, "explanation": "錯誤：雖有鄉愁背景，但重點不在於懷鄉。" },
+      { "text": "與友離別", "isAnswer": false, "explanation": "錯誤：並無離別描寫，情感重心不同。" }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 126,
+    "question": "下列哪兩篇皆使用自然景物以寄託個人情志？",
+    "source": "多篇對讀",
+    "options": [
+      { "text": "《登樓》與《逍遙遊》", "isAnswer": false, "explanation": "錯誤：《逍遙遊》哲理為主，非景物寄情。" },
+      { "text": "《山居秋暝》與《念奴嬌》", "isAnswer": true, "explanation": "正確：王維以自然寫隱逸，蘇軾借江山寫懷古，皆為景中寄志。" },
+      { "text": "《魚我所欲也》與《師說》", "isAnswer": false, "explanation": "錯誤：皆為論述文，無借景。" },
+      { "text": "《聲聲慢》與《六國論》", "isAnswer": false, "explanation": "錯誤：《六國論》為政論，不涉景物描寫。" }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 127,
+    "question": "《師說》與《勸學》皆提倡學習，下列哪項為兩者共同思想？",
+    "source": "《師說》《勸學》",
+    "options": [
+      { "text": "學無常師，重在領悟", "isAnswer": false, "explanation": "錯誤：《勸學》著重積累，不主張單靠領悟。" },
+      { "text": "學習須有師承與方法", "isAnswer": true, "explanation": "正確：韓愈強調尊師，荀子主張善假於物，皆重方法與導引。" },
+      { "text": "只要努力即可自通", "isAnswer": false, "explanation": "錯誤：兩文皆指出需借助他人，非單靠努力。" },
+      { "text": "學而優則仕", "isAnswer": false, "explanation": "錯誤：非兩文中心，亦非原句。" }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 128,
+    "question": "《六國論》中蘇洵斥諸侯賂秦失策，其憂國之情與《出師表》中諸葛亮有何相同？",
+    "source": "《六國論》《出師表》",
+    "options": [
+      { "text": "皆因親小人遠賢才所致", "isAnswer": false, "explanation": "錯誤：蘇洵論政治手段，非人才問題。" },
+      { "text": "皆憂國亡之勢，盼改革中興", "isAnswer": true, "explanation": "正確：二人皆對國事憂懼，提出忠誠之策以求振興。" },
+      { "text": "皆主張聯秦以保國", "isAnswer": false, "explanation": "錯誤：蘇洵反對賂秦，諸葛亮無涉聯秦。" },
+      { "text": "皆要求更換君主", "isAnswer": false, "explanation": "錯誤：皆忠君，無更換君主之意。" }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 129,
+    "question": "《山居秋暝》與《聲聲慢》都借景抒情，其抒情方式之差異在於：",
+    "source": "《山居秋暝》《聲聲慢》",
+    "options": [
+      { "text": "前者情隨景轉，後者景隨情轉", "isAnswer": true, "explanation": "正確：王維以景引情，李清照則以情導景，反向運用。" },
+      { "text": "前者擬人為主，後者用典為主", "isAnswer": false, "explanation": "錯誤：兩者皆非用擬人法為主軸。" },
+      { "text": "皆以濃墨重彩寫自然之美", "isAnswer": false, "explanation": "錯誤：李詞用景微妙淡寫，不屬濃墨之風。" },
+      { "text": "皆反映政治抱負", "isAnswer": false, "explanation": "錯誤：兩首皆屬抒情作品，無政治志趣。" }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 130,
+    "question": "《逍遙遊》追求無待的精神與《青玉案．元夕》最後「那人卻在燈火闌珊處」有何相似之處？",
+    "source": "《逍遙遊》《青玉案．元夕》",
+    "options": [
+      { "text": "皆表現順其自然，無所執著", "isAnswer": true, "explanation": "正確：大鵬無所待、佳人無心爭艷，皆顯『自然無為』之意。" },
+      { "text": "皆描寫虛幻夢境", "isAnswer": false, "explanation": "錯誤：《青玉案》非夢境表達，具體情景描寫為主。" },
+      { "text": "皆以對話形式呈現", "isAnswer": false, "explanation": "錯誤：兩者皆非對話體。" },
+      { "text": "皆訴諸懷舊情感", "isAnswer": false, "explanation": "錯誤：莊文重哲理，非懷舊；辛詞亦重寄情非懷古。" }
+    ],
+    "difficulty": "hard"
   }
 ]
