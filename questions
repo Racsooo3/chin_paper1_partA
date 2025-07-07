@@ -2742,5 +2742,125 @@
       }
     ],
     "difficulty": "medium"
+  },
+  {
+    "id": 111,
+    "question": "《逍遙遊》中「其翼若垂天之雲」一句描寫的是：",
+    "source": "《逍遙遊》",
+    "options": [
+      { "text": "鯤魚", "isAnswer": false, "explanation": "錯誤：「垂天之雲」形容大鵬鳥的雙翼，非魚類。" },
+      { "text": "大鵬", "isAnswer": true, "explanation": "正確：此句描述大鵬展翼，如天幕般壯闊。" },
+      { "text": "天鵝", "isAnswer": false, "explanation": "錯誤：古文無涉天鵝，屬現代誤導選項。" },
+      { "text": "雲彩", "isAnswer": false, "explanation": "錯誤：「雲」為比喻用法，非描寫對象。" }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 112,
+    "question": "《勸學》中「木直中繩，輮以為輪」一語中的「輮」是甚麼意思？",
+    "source": "《勸學》",
+    "options": [
+      { "text": "雕刻", "isAnswer": false, "explanation": "錯誤：「輮」是屈曲，不是雕刻加工。" },
+      { "text": "加熱彎曲", "isAnswer": true, "explanation": "正確：「輮」是把木頭蒸煮使之柔軟再彎曲，象徵教育可塑性。" },
+      { "text": "削尖", "isAnswer": false, "explanation": "錯誤：語境與尖銳無關。" },
+      { "text": "燒毀", "isAnswer": false, "explanation": "錯誤：「輮」是製輪過程，非摧毀。" }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 113,
+    "question": "《六國論》中「賂秦而力虧，破亡之道也」一句中的「力虧」最合適的解釋是：",
+    "source": "《六國論》",
+    "options": [
+      { "text": "喪失國力", "isAnswer": true, "explanation": "正確：「力虧」即耗盡自身力量與財富，導致國力衰弱。" },
+      { "text": "輕敵冒進", "isAnswer": false, "explanation": "錯誤：此句未涉及軍事戰術錯誤。" },
+      { "text": "武力不足", "isAnswer": false, "explanation": "錯誤：「力」泛指整體國力，不單是軍力。" },
+      { "text": "無人可用", "isAnswer": false, "explanation": "錯誤：「力虧」非指人才流失。" }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 114,
+    "question": "《出師表》中「願陛下託臣以討賊興復之效」一句中的「效」意思是：",
+    "source": "《出師表》",
+    "options": [
+      { "text": "成效", "isAnswer": false, "explanation": "錯誤：雖然近似，但此句中作『任務、職責』解。" },
+      { "text": "效忠", "isAnswer": false, "explanation": "錯誤：此非表忠心之語，意在請求職責。" },
+      { "text": "職責", "isAnswer": true, "explanation": "正確：「效」作名詞，指「效命之事」，即任務或責任。" },
+      { "text": "榜樣", "isAnswer": false, "explanation": "錯誤：與語境無關，屬誤導選項。" }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 115,
+    "question": "《山居秋暝》中「明月松間照，清泉石上流」展現的是：",
+    "source": "《山居秋暝》",
+    "options": [
+      { "text": "靜謐幽美的自然景象", "isAnswer": true, "explanation": "正確：詩人描繪清幽環境，展現山中夜色之美。" },
+      { "text": "壯闊宏偉的山河景觀", "isAnswer": false, "explanation": "錯誤：風格婉約平和，非宏偉壯麗。" },
+      { "text": "詩人登高懷古的情懷", "isAnswer": false, "explanation": "錯誤：無懷古之意，乃寫實景與心境契合。" },
+      { "text": "高士遠離塵囂的孤寂", "isAnswer": false, "explanation": "錯誤：有出世之意但無悲涼孤寂的情感。" }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 116,
+    "question": "《青玉案．元夕》中「眾裡尋他千百度，驀然回首，那人卻在燈火闌珊處」一句所用的修辭是：",
+    "source": "《青玉案．元夕》",
+    "options": [
+      { "text": "反襯", "isAnswer": true, "explanation": "正確：前段極盡追尋未果，最後一瞥平淡處見，形成強烈反襯。" },
+      { "text": "對偶", "isAnswer": false, "explanation": "錯誤：句式不對仗，非對偶。" },
+      { "text": "設問", "isAnswer": false, "explanation": "錯誤：句中並無疑問語氣。" },
+      { "text": "擬人", "isAnswer": false, "explanation": "錯誤：無非人事物人格化。" }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 117,
+    "question": "《廉頗藺相如列傳》中藺相如「引車避匿」的行為用意是：",
+    "source": "《廉頗藺相如列傳》",
+    "options": [
+      { "text": "懼怕廉頗", "isAnswer": false, "explanation": "錯誤：非出於懼怕，而是為了國家大局。" },
+      { "text": "以國家利益為重", "isAnswer": true, "explanation": "正確：藺相如退讓是為避免內鬥，顧全大局。" },
+      { "text": "羞見舊敵", "isAnswer": false, "explanation": "錯誤：二人非敵對關係。" },
+      { "text": "欲辭官避禍", "isAnswer": false, "explanation": "錯誤：藺相如無去職之意。" }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 118,
+    "question": "《聲聲慢》中「怎一箇愁字了得」一句的語氣最適合形容為：",
+    "source": "《聲聲慢．秋情》",
+    "options": [
+      { "text": "悲憤激昂", "isAnswer": false, "explanation": "錯誤：語調哀婉柔弱，不激不憤。" },
+      { "text": "哀婉低回", "isAnswer": true, "explanation": "正確：此句以反問表達無限愁苦，語氣哀婉。" },
+      { "text": "驚喜萬分", "isAnswer": false, "explanation": "錯誤：整篇皆悲，此為錯置情緒誤導。" },
+      { "text": "語重心長", "isAnswer": false, "explanation": "錯誤：非勸誡語氣，而是自述情緒。" }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 119,
+    "question": "《師說》中「人非生而知之者，孰能無惑？」的句式屬於：",
+    "source": "《師說》",
+    "options": [
+      { "text": "設問", "isAnswer": false, "explanation": "錯誤：非為引導式問句，實為反問句式。" },
+      { "text": "反問", "isAnswer": true, "explanation": "正確：表面為疑問，實質為強調人人皆有疑惑，需從師學習。" },
+      { "text": "感嘆", "isAnswer": false, "explanation": "錯誤：無驚嘆語氣。" },
+      { "text": "對比", "isAnswer": false, "explanation": "錯誤：無對立比較成分。" }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 120,
+    "question": "《出師表》中諸葛亮對「親賢臣，遠小人」的主張與《論語》中何句最為相近？",
+    "source": "《出師表》《論語》對讀",
+    "options": [
+      { "text": "君子坦蕩蕩", "isAnswer": false, "explanation": "錯誤：談君子氣度，非治國之道。" },
+      { "text": "任人唯賢", "isAnswer": false, "explanation": "錯誤：非原文，屬現代政治語。" },
+      { "text": "用之則行，舍之則藏", "isAnswer": false, "explanation": "錯誤：此句講人才態度，不論用人原則。" },
+      { "text": "君子周而不比，小人比而不周", "isAnswer": true, "explanation": "正確：孔子此言即區分君子小人，與諸葛亮治國理念吻合。" }
+    ],
+    "difficulty": "hard"
   }
 ]
