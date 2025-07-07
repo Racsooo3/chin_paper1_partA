@@ -2982,5 +2982,145 @@
       { "text": "皆訴諸懷舊情感", "isAnswer": false, "explanation": "錯誤：莊文重哲理，非懷舊；辛詞亦重寄情非懷古。" }
     ],
     "difficulty": "hard"
+  },
+  {
+    "id": 141,
+    "question": "下列兩句中，「從」字的意思分別是：\n甲：「前人之述備矣，吾從而述之。」\n乙：「死而不亡者壽，從吾所好。」",
+    "source": "《論語》 / 《莊子》",
+    "options": [
+      {
+        "text": "跟從 / 依順",
+        "isAnswer": true,
+        "explanation": "甲句「從」指跟從、依循前人記載；乙句「從吾所好」是依從、順從自己所愛好。兩者皆為跟隨、依從之意。"
+      },
+      {
+        "text": "跟從 / 喜愛",
+        "isAnswer": false,
+        "explanation": "錯誤：乙句「從吾所好」中「從」不是「喜愛」，而是「順從」。"
+      },
+      {
+        "text": "贊同 / 順應",
+        "isAnswer": false,
+        "explanation": "錯誤：「從」在甲句並無贊同之義，乙句亦不止是「順應」而是「依從」。"
+      },
+      {
+        "text": "效法 / 接受",
+        "isAnswer": false,
+        "explanation": "錯誤：「從」在兩句中都不表示「接受」之意。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 142,
+    "question": "下列兩句中，「之」字的意思分別是：\n甲：「非蛇鱔之穴無可寄託者。」\n乙：「既東封鄭，又欲肆其西封之地。」",
+    "source": "《逍遙遊》 / 《左傳》",
+    "options": [
+      {
+        "text": "的 / 的",
+        "isAnswer": true,
+        "explanation": "甲句「之穴」意即「蛇鱔的洞穴」，乙句「之地」意即「西封的土地」，兩者皆為「的」的意思。"
+      },
+      {
+        "text": "到 / 的",
+        "isAnswer": false,
+        "explanation": "錯誤：甲句中的「之」非「到」，而是表示所屬。"
+      },
+      {
+        "text": "去 / 往",
+        "isAnswer": false,
+        "explanation": "錯誤：兩者皆非表達動作方向之詞。"
+      },
+      {
+        "text": "指示代詞 / 的",
+        "isAnswer": false,
+        "explanation": "錯誤：甲乙句中的「之」均非代詞性質。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 143,
+    "question": "下列兩句中，「亡」字的意思分別是：\n甲：「死而不亡者壽。」\n乙：「且燕、趙處秦革滅殘**亡**之餘。」",
+    "source": "《莊子》 / 《六國論》",
+    "options": [
+      {
+        "text": "消失 / 滅亡",
+        "isAnswer": true,
+        "explanation": "甲句「亡」指肉體消失但精神不朽；乙句「亡」則指國破家亡，明確是滅亡。"
+      },
+      {
+        "text": "逃亡 / 消散",
+        "isAnswer": false,
+        "explanation": "錯誤：「亡」非「逃走」，語境中無此意思。"
+      },
+      {
+        "text": "不在 / 消滅",
+        "isAnswer": false,
+        "explanation": "錯誤：「亡」在甲句並非純粹指不存在，而有精神層次含義。"
+      },
+      {
+        "text": "死亡 / 消失",
+        "isAnswer": false,
+        "explanation": "錯誤：甲句中亡並非等於死，而是超越肉體死亡的存在。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 144,
+    "question": "下列兩句中，「設」字的意思分別是：\n甲：「趙亦盛**設**兵以備秦。」\n乙：「君子博學於文，**設**之以禮。」",
+    "source": "《廉頗藺相如列傳》 / 《荀子．勸學》",
+    "options": [
+      {
+        "text": "部署 / 配合",
+        "isAnswer": true,
+        "explanation": "甲句「設」是設置軍隊；乙句「設之以禮」意為用禮節加以安排或配合。"
+      },
+      {
+        "text": "鋪排 / 安排",
+        "isAnswer": false,
+        "explanation": "錯誤：「設」在甲句更偏軍事上的「部署」，非一般鋪排。"
+      },
+      {
+        "text": "設計 / 教化",
+        "isAnswer": false,
+        "explanation": "錯誤：乙句無「教化」義，甲句也非設計含義。"
+      },
+      {
+        "text": "裝設 / 使用",
+        "isAnswer": false,
+        "explanation": "錯誤：語境並未強調工具性質。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 145,
+    "question": "下列兩句中，「備」字的意思分別是：\n甲：「前人之述**備**矣。」\n乙：「趙亦盛設兵以**備**秦。」",
+    "source": "《出師表》 / 《廉頗藺相如列傳》",
+    "options": [
+      {
+        "text": "完備 / 防備",
+        "isAnswer": true,
+        "explanation": "甲句「備」即完備、齊全；乙句「備」是指防備秦國入侵。"
+      },
+      {
+        "text": "準備 / 完全",
+        "isAnswer": false,
+        "explanation": "錯誤：甲句「備」非「準備」，而是已有的「完備」狀態。"
+      },
+      {
+        "text": "防備 / 預備",
+        "isAnswer": false,
+        "explanation": "錯誤：甲句非預備未來，而是已有的完備記載。"
+      },
+      {
+        "text": "警覺 / 詳盡",
+        "isAnswer": false,
+        "explanation": "錯誤：「備」在甲乙句皆與警覺無關。"
+      }
+    ],
+    "difficulty": "hard"
   }
 ]
