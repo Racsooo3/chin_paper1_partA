@@ -1035,200 +1035,200 @@
     ],
     "difficulty": "easy"
   },
-{
-"id": 151,
-"question": "《岳陽樓記》中「不以物喜，不以己悲」主要體現了：",
-"source": "《岳陽樓記》",
-"options": [
-{
-"text": "功名心切",
-"isAnswer": false,
-"explanation": "錯誤：此語與功名無涉，而是講求內在操守。"
-},
-{
-"text": "悲天憫人",
-"isAnswer": false,
-"explanation": "錯誤：雖通篇含憂民之情，但此句聚焦君子處世之態度。"
-},
-{
-"text": "超然自適",
-"isAnswer": true,
-"explanation": "正確：此句講述不為外物與個人得失所動，體現高潔之志。"
-},
-{
-"text": "憂國憂民",
-"isAnswer": false,
-"explanation": "錯誤：雖通篇含憂民之情，但此句聚焦君子處世之態度。"
-}
-],
-"difficulty": "easy"
-},
-{
-"id": 154,
-"question": "《月下獨酌》中，「我歌月徘徊，我舞影零亂」的修辭特色是：",
-"source": "《月下獨酌》",
-"options": [
-{
-"text": "通感",
-"isAnswer": false,
-"explanation": "錯誤：通感指感官混合表達，此句未涉此類感覺交錯。"
-},
-{
-"text": "擬人",
-"isAnswer": true,
-"explanation": "正確：將月亮與影子寫得有情有意，表現作者孤獨之情。"
-},
-{
-"text": "反問",
-"isAnswer": false,
-"explanation": "錯誤：句中無任何疑問語氣。"
-},
-{
-"text": "借代",
-"isAnswer": false,
-"explanation": "錯誤：無使用具體物代替抽象事物之表現。"
-}
-],
-"difficulty": "hard"
-},
-{
-"id": 156,
-"question": "《論語．論孝》「祭之以禮」中「禮」的含義是：",
-"source": "《論語．論孝》",
-"options": [
-{
-"text": "儀式制度",
-"isAnswer": true,
-"explanation": "正確：「禮」在此指對父母的喪葬祭祀應合乎禮制，即依傳統規範進行儀式。"
-},
-{
-"text": "謙遜之意",
-"isAnswer": false,
-"explanation": "錯誤：「禮」有時作謙辭，但此處明顯指行事準則與儀節。"
-},
-{
-"text": "敬愛之心",
-"isAnswer": false,
-"explanation": "錯誤：雖祭祀體現敬意，但此處強調的為形式上的合禮。"
-},
-{
-"text": "禮物贈送",
-"isAnswer": false,
-"explanation": "錯誤：「禮」並非指贈物，而是祭祀儀節。"
-}
-],
-"difficulty": "easy"
-},
-{
-"id": 161,
-"question": "《聲聲慢．秋情》中「尋尋覓覓，冷冷清清，淒淒慘慘戚戚」運用了哪種修辭？",
-"source": "《聲聲慢．秋情》",
-"options": [
-{
-"text": "對偶",
-"isAnswer": false,
-"explanation": "錯誤：此句句式不對稱，不成對偶句。"
-},
-{
-"text": "疊字",
-"isAnswer": true,
-"explanation": "正確：重疊詞語構成疊字，加強哀傷情感。"
-},
-{
-"text": "設問",
-"isAnswer": false,
-"explanation": "錯誤：此句為敘述，無設問語氣。"
-},
-{
-"text": "通感",
-"isAnswer": false,
-"explanation": "錯誤：無感官交錯表現，非通感。"
-}
-],
-"difficulty": "medium"
-},
-{
-"id": 110601,
-"question": "《聲聲慢．秋情》中「淒淒慘慘戚戚」運用了哪種修辭？",
-"source": "《聲聲慢．秋情》",
-"options": [
-{
-"text": "對偶",
-"isAnswer": false,
-"explanation": "錯誤：此句句式不對稱，不成對偶句。"
-},
-{
-"text": "雙聲",
-"isAnswer": true,
-"explanation": "正確：淒淒慘慘戚戚具有相同的聲母的關係，讀起來更動聽及易記。"
-},
-{
-"text": "設問",
-"isAnswer": false,
-"explanation": "錯誤：此句為敘述，無設問語氣。"
-},
-{
-"text": "通感",
-"isAnswer": false,
-"explanation": "錯誤：無感官交錯表現，非通感。"
-}
-],
-"difficulty": "hard"
-},
-{
-"id": 195,
-"question": "《念奴嬌．赤壁懷古》中，「亂石穿空，驚濤拍岸，卷起千堆雪」一句使用了什麼修辭手法來描寫景物？",
-"source": "《念奴嬌．赤壁懷古》",
-"options": [
-{
-"text": "誇張",
-"isAnswer": true,
-"explanation": "正確：誇張手法形容驚濤的壯麗與動感，強調氣勢磅礴的場景。"
-},
-{
-"text": "擬人",
-"isAnswer": false,
-"explanation": "錯誤：句中並未將景物擬人化，而是直接描寫其壯觀。"
-},
-{
-"text": "通感",
-"isAnswer": false,
-"explanation": "錯誤：無感官交錯表現，非通感。"
-},
-{
-"text": "排比",
-"isAnswer": false,
-"explanation": "錯誤：雖有多層次描寫，但不是排比句式。"
-}
-],
-"difficulty": "medium"
-},
-{
-"id": 221,
-"question": "《勸學》中，「積土成山，風雨興焉」一句比喻什麼道理？",
-"source": "《勸學》",
-"options": [
-{
-"text": "持之以恆的重要性",
-"isAnswer": true,
-"explanation": "正確：此處以積土成山比喻積少成多，強調持之以恆的重要性。"
-},
-{
-"text": "學習需要挑戰",
-"isAnswer": false,
-"explanation": "錯誤：此句強調的是堅持積累，而非挑戰困難。"
-},
-{
-"text": "機遇的重要性",
-"isAnswer": false,
-"explanation": "錯誤：此句並未提及機遇，而是持續努力的必要性。"
-},
-{
-"text": "環境的影響",
-"isAnswer": false,
-"explanation": "錯誤：句中未表達環境對人的影響，為誤導選項。"
-}
-],
-"difficulty": "medium"
-}
+  {
+    "id": 151,
+    "question": "《岳陽樓記》中「不以物喜，不以己悲」主要體現了：",
+    "source": "《岳陽樓記》",
+    "options": [
+      {
+        "text": "功名心切",
+        "isAnswer": false,
+        "explanation": "錯誤：此語與功名無涉，而是講求內在操守。"
+      },
+      {
+        "text": "悲天憫人",
+        "isAnswer": false,
+        "explanation": "錯誤：雖通篇含憂民之情，但此句聚焦君子處世之態度。"
+      },
+      {
+        "text": "超然自適",
+        "isAnswer": true,
+        "explanation": "正確：此句講述不為外物與個人得失所動，體現高潔之志。"
+      },
+      {
+        "text": "憂國憂民",
+        "isAnswer": false,
+        "explanation": "錯誤：雖通篇含憂民之情，但此句聚焦君子處世之態度。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 154,
+    "question": "《月下獨酌》中，「我歌月徘徊，我舞影零亂」的修辭特色是：",
+    "source": "《月下獨酌》",
+    "options": [
+      {
+        "text": "通感",
+        "isAnswer": false,
+        "explanation": "錯誤：通感指感官混合表達，此句未涉此類感覺交錯。"
+      },
+      {
+        "text": "擬人",
+        "isAnswer": true,
+        "explanation": "正確：將月亮與影子寫得有情有意，表現作者孤獨之情。"
+      },
+      {
+        "text": "反問",
+        "isAnswer": false,
+        "explanation": "錯誤：句中無任何疑問語氣。"
+      },
+      {
+        "text": "借代",
+        "isAnswer": false,
+        "explanation": "錯誤：無使用具體物代替抽象事物之表現。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 156,
+    "question": "《論語．論孝》「祭之以禮」中「禮」的含義是：",
+    "source": "《論語．論孝》",
+    "options": [
+      {
+        "text": "儀式制度",
+        "isAnswer": true,
+        "explanation": "正確：「禮」在此指對父母的喪葬祭祀應合乎禮制，即依傳統規範進行儀式。"
+      },
+      {
+        "text": "謙遜之意",
+        "isAnswer": false,
+        "explanation": "錯誤：「禮」有時作謙辭，但此處明顯指行事準則與儀節。"
+      },
+      {
+        "text": "敬愛之心",
+        "isAnswer": false,
+        "explanation": "錯誤：雖祭祀體現敬意，但此處強調的為形式上的合禮。"
+      },
+      {
+        "text": "禮物贈送",
+        "isAnswer": false,
+        "explanation": "錯誤：「禮」並非指贈物，而是祭祀儀節。"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 161,
+    "question": "《聲聲慢．秋情》中「尋尋覓覓，冷冷清清，淒淒慘慘戚戚」運用了哪種修辭？",
+    "source": "《聲聲慢．秋情》",
+    "options": [
+      {
+        "text": "對偶",
+        "isAnswer": false,
+        "explanation": "錯誤：此句句式不對稱，不成對偶句。"
+      },
+      {
+        "text": "疊字",
+        "isAnswer": true,
+        "explanation": "正確：重疊詞語構成疊字，加強哀傷情感。"
+      },
+      {
+        "text": "設問",
+        "isAnswer": false,
+        "explanation": "錯誤：此句為敘述，無設問語氣。"
+      },
+      {
+        "text": "通感",
+        "isAnswer": false,
+        "explanation": "錯誤：無感官交錯表現，非通感。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 110601,
+    "question": "《聲聲慢．秋情》中「淒淒慘慘戚戚」運用了哪種修辭？",
+    "source": "《聲聲慢．秋情》",
+    "options": [
+      {
+        "text": "對偶",
+        "isAnswer": false,
+        "explanation": "錯誤：此句句式不對稱，不成對偶句。"
+      },
+      {
+        "text": "雙聲",
+        "isAnswer": true,
+        "explanation": "正確：淒淒慘慘戚戚具有相同的聲母的關係，讀起來更動聽及易記。"
+      },
+      {
+        "text": "設問",
+        "isAnswer": false,
+        "explanation": "錯誤：此句為敘述，無設問語氣。"
+      },
+      {
+        "text": "通感",
+        "isAnswer": false,
+        "explanation": "錯誤：無感官交錯表現，非通感。"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 195,
+    "question": "《念奴嬌．赤壁懷古》中，「亂石穿空，驚濤拍岸，卷起千堆雪」一句使用了什麼修辭手法來描寫景物？",
+    "source": "《念奴嬌．赤壁懷古》",
+    "options": [
+      {
+        "text": "誇張",
+        "isAnswer": true,
+        "explanation": "正確：誇張手法形容驚濤的壯麗與動感，強調氣勢磅礴的場景。"
+      },
+      {
+        "text": "擬人",
+        "isAnswer": false,
+        "explanation": "錯誤：句中並未將景物擬人化，而是直接描寫其壯觀。"
+      },
+      {
+        "text": "通感",
+        "isAnswer": false,
+        "explanation": "錯誤：無感官交錯表現，非通感。"
+      },
+      {
+        "text": "排比",
+        "isAnswer": false,
+        "explanation": "錯誤：雖有多層次描寫，但不是排比句式。"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 221,
+    "question": "《勸學》中，「積土成山，風雨興焉」一句比喻什麼道理？",
+    "source": "《勸學》",
+    "options": [
+      {
+        "text": "持之以恆的重要性",
+        "isAnswer": true,
+        "explanation": "正確：此處以積土成山比喻積少成多，強調持之以恆的重要性。"
+      },
+      {
+        "text": "學習需要挑戰",
+        "isAnswer": false,
+        "explanation": "錯誤：此句強調的是堅持積累，而非挑戰困難。"
+      },
+      {
+        "text": "機遇的重要性",
+        "isAnswer": false,
+        "explanation": "錯誤：此句並未提及機遇，而是持續努力的必要性。"
+      },
+      {
+        "text": "環境的影響",
+        "isAnswer": false,
+        "explanation": "錯誤：句中未表達環境對人的影響，為誤導選項。"
+      }
+    ],
+    "difficulty": "medium"
+  }
 ]
